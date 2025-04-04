@@ -1,0 +1,2101 @@
+transaction_id,customer_name,phone_number,age,city,transaction_date,product_category,amount,payment_method
+718969,Grace,09178480427,80.0,New York,2023-05-29,Home & Kitchen,,paypal
+480570,Bob,09454470547,31.0,,,Electronics,10000.0,debit card
+761860,Alice,09984217989,23.0,Miami,2023-12-20,Books,10000.0,cash
+414220,Henry,09983003209,54.0,San Francisco,2023-03-22,Groceries,10000.0,paypal
+130403,David,09178943535,,Seattle,2023-02-21,Books,266.06,paypal
+875973,David,09458104396,,San Francisco,2023-08-04,Toys,10000.0,
+391807,Bob,09176939794,,Los Angeles,2023-05-26,Sports,,debit card
+798451,Frank,09457858129,,Houston,,Toys,,cash
+301798,Alice,09173971476,,Seattle,2023-01-07,Electronics,,paypal
+940314,Alice,09206611376,,Seattle,2023-02-09,Toys,,cash
+908990,Charlie,09356187407,,San Francisco,2023-05-10,Clothing,,
+723945,Henry,09454080216,,Miami,2023-02-13,Clothing,,cash
+567716,David,09981977713,,Houston,2023-08-05,Home & Kitchen,,cash
+900231,Alice,09207876736,24.0,Chicago,,Clothing,413.65,credit card
+916714,Alice,09356580199,,Chicago,2023-12-15,Toys,,credit card
+146197,Frank,09452207103,,Miami,2023-05-07,Groceries,10000.0,cash
+590280,Eva,09201186689,,Chicago,2023-11-13,Toys,10000.0,credit card 
+546834,Eva,09355612527,,New York,2023-01-02,Clothing,26.41,paypal
+452431,Bob,09179725079,,New York,2023-02-09,Home & Kitchen,,credit card
+954741,Grace,09175681316,,Chicago,2023-03-04,Home & Kitchen,,paypal
+380761,Eva,09206089196,88.0,San Francisco,2023-05-08,Home & Kitchen,415.67,cash
+274248,Eva,09202578020,,Houston,2023-02-14,Clothing,,credit card
+126138,Alice,09451309178,,Seattle,2023-09-27,Sports,,cash
+847282,Henry,09982570771,,Seattle,2023-09-24,Sports,,
+253172,Henry,09458625818,21.0,Seattle,2023-11-08,Clothing,,cash
+234332,David,09354209044,36.0,Los Angeles,,Books,,debit card
+742315,Alice,09173782449,,Chicago,2023-04-09,Toys,,paypal
+350599,Frank,09179201524,,Los Angeles,2023-08-11,Toys,,credit card
+486148,David,09457270317,,New York,2023-10-17,Clothing,,paypal
+969231,David,09203643635,79.0,Chicago,2023-06-10,Electronics,431.68,cash
+942990,Bob,09206369828,37.0,Miami,2023-07-03,Sports,,cash
+665176,Henry,09454040667,,Miami,2023-08-01,Electronics,,paypal
+451389,Alice,09209505371,,Seattle,2023-01-04,Home & Kitchen,,paypal
+703443,Charlie,09452563031,,Seattle,2023-04-24,Home & Kitchen,,
+613933,Charlie,09173185300,,Miami,2023-05-21,Groceries,,cash
+293411,Henry,09209047066,,Seattle,,Clothing,,paypal
+171594,Eva,09179899297,,San Francisco,,Sports,,credit card 
+883376,Eva,09454205562,53.0,Miami,2023-04-06,Groceries,,cash
+161703,Henry,09352539116,,Seattle,2023-06-10,Books,,credit card 
+495966,Frank,09352978039,,Houston,2023-07-25,Toys,,debit card
+652477,Grace,09170503053,,,,Home & Kitchen,,credit card 
+728582,Alice,09350963786,,Los Angeles,,Clothing,,debit card
+531448,Bob,09450515615,,New York,2023-10-17,Groceries,,debit card
+528028,Grace,09456186312,,Los Angeles,,Groceries,,credit card 
+876646,Charlie,09355524680,,Los Angeles,2023-06-26,Electronics,,paypal
+354034,Charlie,09206681912,,Miami,2023-12-29,Sports,,cash
+668949,Alice,09456894385,,Seattle,2023-01-20,Home & Kitchen,,paypal
+825676,Charlie,09201570811,,Chicago,2023-06-15,Books,,paypal
+123139,Charlie,09458603524,,San Francisco,2023-11-04,Books,10000.0,credit card 
+580433,Bob,09175933508,,New York,2023-03-09,Home & Kitchen,215.6,
+774683,Henry,09353781119,,Los Angeles,2023-02-02,Electronics,10000.0,debit card
+896552,Charlie,09358946641,,New York,,Clothing,10000.0,cash
+430026,Eva,09455206014,,Los Angeles,,Home & Kitchen,10000.0,credit card
+274415,Charlie,09454169944,,Los Angeles,2023-11-13,Sports,,debit card
+686044,Frank,09201695643,,Chicago,,Electronics,210.82,debit card
+144847,David,09458582102,,New York,2023-01-21,Clothing,38.12,debit card
+632370,Eva,09987542813,,Houston,2023-02-09,Clothing,36.05,cash
+576563,Henry,09357178550,,New York,2023-10-29,Books,,
+878807,Eva,09202857101,58.0,Houston,2023-05-23,Home & Kitchen,,credit card 
+416169,Henry,09202060720,77.0,San Francisco,2023-06-26,Books,,cash
+215463,Frank,09352046949,45.0,Chicago,,Toys,407.9,
+482435,Charlie,09987184734,,New York,2023-05-05,Electronics,,debit card
+952616,Bob,09983560174,,Miami,2023-02-08,Sports,,cash
+970188,Frank,09988150590,,San Francisco,2023-03-28,Books,,credit card
+212131,Alice,09201859327,,Seattle,2023-11-14,Toys,10000.0,paypal
+805063,Bob,09178386416,,San Francisco,2023-02-14,Books,186.65,debit card
+481067,Grace,09353482141,,Chicago,2023-10-30,Clothing,,
+534336,Frank,09202789958,45.0,Miami,2023-12-12,Books,10000.0,debit card
+266247,Alice,09351833238,,,,Groceries,,paypal
+774668,Charlie,09203935392,,Chicago,2023-01-30,Groceries,10000.0,debit card
+528235,Eva,09984192957,,,2023-06-15,Sports,313.74,cash
+718578,Charlie,09456730008,,,2023-10-18,Books,437.28,cash
+710559,David,09984215577,,Chicago,2023-10-12,Clothing,,debit card
+597826,Bob,09451839935,,Houston,2023-05-08,Toys,10000.0,debit card
+486543,David,09357688106,,San Francisco,,Toys,,credit card 
+664626,Eva,09984946484,,Houston,2023-11-15,Electronics,,cash
+776309,Grace,09171878146,,San Francisco,2023-09-20,Clothing,,debit card
+188790,David,09356794885,,San Francisco,2023-11-29,Groceries,,
+960575,Charlie,09170595104,,,2023-11-17,Sports,499.63,
+175349,Henry,09206287865,,Miami,2023-06-24,Sports,27.2,paypal
+608025,Frank,09205952074,,Chicago,2023-08-27,Clothing,,debit card
+608533,Charlie,09351207633,,San Francisco,2023-06-25,Sports,,credit card 
+895110,Henry,09175564061,,Houston,2023-08-03,Clothing,,credit card
+821888,Alice,09350039299,,Los Angeles,2023-09-09,Books,,credit card 
+113728,Grace,09453224730,,Los Angeles,,Books,10000.0,debit card
+897522,Bob,09354645467,50.0,San Francisco,2023-07-22,Books,333.97,
+928659,Frank,09984013968,,New York,2023-06-29,Books,,debit card
+284350,David,09457235828,,Chicago,2023-07-30,Groceries,,credit card
+983781,Charlie,09984657486,,Los Angeles,,Toys,,credit card
+880180,Alice,09984126870,,New York,2023-09-04,Electronics,10000.0,paypal
+682108,Frank,09458244818,,San Francisco,2023-08-27,Electronics,,debit card
+474698,Frank,09175804017,,Miami,2023-12-29,Groceries,10000.0,paypal
+669313,Alice,09350424084,,Miami,,Clothing,304.56,credit card
+239652,Bob,09452707897,,Houston,2023-06-27,Books,94.27,paypal
+826068,Henry,09179081195,,New York,2023-03-28,Electronics,10000.0,cash
+527833,David,09178846514,88.0,San Francisco,2023-07-10,Electronics,,
+625144,Henry,09170736768,,Chicago,2023-11-19,Home & Kitchen,,credit card
+159877,Charlie,09980903239,,San Francisco,2023-08-02,Home & Kitchen,,
+516885,Bob,09202220364,,San Francisco,2023-10-10,Clothing,,paypal
+987701,Grace,09358891081,,Los Angeles,2023-08-15,Books,,cash
+126845,David,09450955753,,Los Angeles,,Sports,,cash
+550665,David,09357646353,,Houston,,Clothing,197.3,credit card
+499930,Alice,09450673344,,,2023-05-07,Groceries,10000.0,cash
+743417,Frank,09984468893,,Miami,,Electronics,,paypal
+245052,Grace,09984094382,,Miami,2023-08-18,Sports,10000.0,cash
+295026,David,09459034325,,New York,2023-04-22,Books,,paypal
+967730,David,09357203107,27.0,New York,,Electronics,,
+539225,David,09200592750,29.0,,2023-06-01,Sports,,debit card
+926374,Grace,09350287868,,San Francisco,2023-11-30,Toys,,debit card
+503599,Grace,09204304430,,Miami,2023-12-28,Sports,,
+967219,Eva,09354237606,,New York,,Sports,,paypal
+751183,Bob,09207338350,,Seattle,,Toys,,debit card
+464707,David,09202329513,,Miami,2023-12-17,Groceries,,credit card
+974214,Eva,09988326094,,Chicago,,Toys,143.67,paypal
+305368,Grace,09353494530,,Chicago,2023-11-19,Clothing,10000.0,
+942979,Henry,09451895486,,Los Angeles,,Home & Kitchen,,debit card
+993598,David,09452381600,,Houston,2023-08-31,Books,,credit card
+111706,Alice,09459184610,,Miami,,Groceries,,
+526034,Eva,09450025879,,San Francisco,2023-04-28,Home & Kitchen,,cash
+188935,Frank,09356002438,,Houston,2023-08-08,Groceries,,paypal
+889067,Charlie,09176233474,,,2023-08-07,Clothing,253.32,cash
+794052,David,09177034507,,Houston,2023-01-17,Books,,paypal
+122637,David,09452404980,,Houston,2023-08-25,Clothing,,cash
+829225,Alice,09209842059,,Los Angeles,2023-07-12,Electronics,,debit card
+474094,Bob,09354847434,33.0,Houston,2023-07-24,Home & Kitchen,10000.0,paypal
+383575,Eva,09980119159,55.0,Miami,2023-09-05,Toys,,
+245698,David,09454472283,,San Francisco,,Sports,,debit card
+637080,Frank,09174336375,,Miami,2023-11-02,Electronics,,debit card
+103831,Henry,09351161008,,Seattle,2023-06-24,Home & Kitchen,,cash
+960273,Alice,09206963736,45.0,Chicago,2023-02-24,Toys,,credit card
+694350,Alice,09989294500,,Seattle,2023-08-19,Groceries,,cash
+337629,Alice,09203596335,,,2023-03-07,Sports,10000.0,
+333633,David,09205991172,,Chicago,,Home & Kitchen,271.82,credit card 
+816855,Eva,09980201269,,Chicago,2023-06-20,Electronics,,cash
+659402,Bob,09985031243,37.0,Seattle,2023-05-22,Books,,paypal
+901851,Charlie,09351608798,,,2023-01-04,Clothing,10000.0,debit card
+659193,Henry,09172864977,,Los Angeles,,Clothing,,paypal
+958531,David,09451393763,69.0,Seattle,2023-07-06,Electronics,,cash
+471413,Henry,09356219704,,San Francisco,2023-07-27,Sports,,cash
+364329,Charlie,09173640701,,Chicago,,Electronics,,paypal
+928125,Frank,09352536603,78.0,Miami,,Groceries,,debit card
+763151,David,09456760901,89.0,Los Angeles,2023-09-06,Books,,paypal
+653617,Bob,09200566488,,Chicago,2023-10-14,Home & Kitchen,,debit card
+554424,David,09452934415,45.0,New York,2023-09-18,Groceries,10000.0,cash
+225667,Henry,09459220501,,San Francisco,2023-01-27,Home & Kitchen,10000.0,credit card 
+349110,Bob,09358201646,,Miami,2023-01-11,Books,,cash
+870735,Charlie,09450102455,,Miami,2023-09-04,Groceries,469.07,paypal
+446260,Henry,09352776484,,Seattle,2023-12-25,Sports,,cash
+702875,Frank,09205629272,63.0,Chicago,2023-10-27,Electronics,,credit card
+181541,Frank,09178424499,,Seattle,2023-09-19,Toys,,cash
+342742,Bob,09458900745,,Los Angeles,2023-08-11,Books,,cash
+417786,Alice,09204399929,,Seattle,,Sports,52.35,credit card 
+106721,Eva,09352676665,69.0,Miami,2023-04-08,Sports,,credit card
+107051,Eva,09178926280,25.0,Miami,2023-06-11,Electronics,,credit card
+508230,Eva,09201231501,,Miami,2023-02-12,Sports,10000.0,
+981172,Charlie,09205175302,,New York,,Books,,credit card
+757442,Charlie,09200916171,,Chicago,2023-03-22,Sports,,cash
+959585,David,09179145545,,New York,,Electronics,,credit card 
+656486,Bob,09179274839,,Miami,2023-06-23,Electronics,,cash
+622107,Frank,09177232364,79.0,Chicago,2023-09-27,Books,23.67,debit card
+297912,Grace,09453703900,65.0,Chicago,2023-10-22,Toys,,debit card
+768473,Alice,09208693597,83.0,Los Angeles,,Home & Kitchen,,debit card
+907431,Alice,09981433972,,Los Angeles,2023-07-15,Home & Kitchen,,cash
+540826,Alice,09353606050,,Los Angeles,2023-03-03,Electronics,,cash
+955993,Bob,09357578621,,Houston,,Electronics,150.52,paypal
+366556,Frank,09177262440,,Los Angeles,2023-07-30,Sports,10000.0,credit card 
+379604,Charlie,09200815655,,San Francisco,,Toys,10000.0,
+567081,Frank,09353139996,,Houston,2023-11-01,Electronics,140.51,debit card
+750508,Eva,09201938681,,New York,2023-04-30,Books,10000.0,paypal
+864957,Eva,09985628125,,Miami,2023-02-12,Books,,paypal
+325500,Eva,09981269372,,San Francisco,2023-02-04,Home & Kitchen,31.72,credit card 
+173221,Bob,09459229210,26.0,Miami,2023-06-26,Toys,,debit card
+429559,Eva,09454599385,,Los Angeles,,Clothing,,paypal
+462516,Eva,09172762741,,Houston,2023-07-15,Home & Kitchen,10000.0,paypal
+608020,David,09985411040,,Miami,2023-09-08,Groceries,,credit card 
+845447,Frank,09984856494,,,2023-08-07,Home & Kitchen,,cash
+855537,David,09202264468,,Chicago,,Clothing,39.98,debit card
+359606,Henry,09171376727,76.0,Los Angeles,2023-01-18,Groceries,,credit card 
+112467,Henry,09350073147,,Los Angeles,2023-02-15,Toys,295.86,
+439095,Frank,09209354502,,San Francisco,,Books,,credit card 
+998816,Eva,09458832441,,,2023-01-26,Toys,,credit card
+187961,Grace,09454644219,43.0,San Francisco,,Electronics,10000.0,
+429033,Eva,09171805567,,Houston,2023-01-13,Groceries,242.39,paypal
+296790,David,09984074963,,Chicago,,Home & Kitchen,297.45,
+850592,Eva,09359519122,,,2023-04-01,Clothing,,paypal
+321247,Alice,09451112466,,San Francisco,,Toys,,credit card 
+695055,Henry,09350925716,,Los Angeles,2023-08-26,Groceries,,
+588327,David,09204764090,,New York,2023-03-03,Toys,,debit card
+470203,Charlie,09352595266,,Miami,2023-02-27,Home & Kitchen,308.33,
+265708,Alice,09177437084,,Chicago,2023-05-06,Groceries,10000.0,cash
+641816,Alice,09204481293,,,2023-10-25,Home & Kitchen,,
+610110,Frank,09173649013,,Seattle,,Books,,
+228285,David,09989337485,35.0,Chicago,2023-02-01,Books,,cash
+261014,Bob,09200446031,,Seattle,2023-07-28,Toys,10000.0,
+266928,Grace,09205771539,,Los Angeles,2023-12-31,Toys,,credit card
+203593,Grace,09205320167,,Houston,2023-07-11,Books,,paypal
+720265,Henry,09175076799,28.0,Chicago,,Books,139.83,paypal
+929291,Bob,09204274752,,Chicago,2023-06-16,Electronics,,paypal
+499156,Alice,09989389577,,Los Angeles,2023-01-30,Toys,333.85,cash
+110314,Charlie,09200374008,,Miami,2023-11-14,Sports,,credit card 
+500056,Alice,09452227479,54.0,New York,2023-10-10,Electronics,,credit card 
+762064,Henry,09450480350,,Seattle,2023-05-02,Clothing,395.61,credit card 
+300586,Eva,09200220270,,Miami,,Groceries,,debit card
+668579,David,09357249462,,Miami,2023-02-08,Toys,10000.0,
+587458,Grace,09453710601,,Los Angeles,2023-12-21,Home & Kitchen,10000.0,cash
+317631,Frank,09458036678,31.0,Seattle,,Sports,,cash
+207296,Bob,09354069142,,Houston,,Toys,,cash
+707832,David,09200974603,,Los Angeles,2023-10-21,Electronics,,cash
+650323,Frank,09175188486,,Los Angeles,2023-04-19,Toys,,credit card 
+426104,Henry,09359130541,,Los Angeles,,Electronics,255.78,cash
+385912,Grace,09450382008,,Seattle,2023-10-27,Electronics,,paypal
+994328,Charlie,09988626909,,New York,,Sports,320.77,
+366945,Charlie,09983358704,,Seattle,2023-04-17,Sports,,cash
+522768,Eva,09458955219,,Seattle,2023-02-05,Toys,10000.0,paypal
+923764,Henry,09356591645,,New York,2023-09-13,Home & Kitchen,,debit card
+623099,David,09981989761,38.0,New York,2023-08-23,Clothing,,debit card
+701319,Charlie,09450498018,,Seattle,2023-10-16,Electronics,10000.0,debit card
+611613,Grace,09459881763,,Houston,2023-09-13,Clothing,10000.0,paypal
+843500,Frank,09209956024,,San Francisco,,Sports,,credit card 
+228074,Bob,09175680529,,San Francisco,,Sports,,debit card
+960137,Charlie,09985641310,,Houston,2023-04-03,Clothing,,credit card
+572132,Eva,09173220967,,,2023-03-24,Electronics,489.18,credit card
+271073,Eva,09207824873,,Miami,2023-11-30,Sports,10000.0,paypal
+513496,Alice,09980800238,,,2023-01-03,Toys,,cash
+536976,Grace,09173549994,,San Francisco,2023-08-01,Home & Kitchen,,cash
+396426,Eva,09172001440,34.0,Chicago,2023-08-03,Toys,,
+219239,Charlie,09450098511,,New York,2023-06-10,Toys,,debit card
+704650,David,09989639820,,Los Angeles,2023-06-15,Books,,paypal
+618924,David,09175380281,,,2023-01-26,Books,448.31,debit card
+809890,Frank,09358611707,,Los Angeles,2023-08-12,Groceries,,debit card
+688730,Charlie,09980303239,,Houston,2023-02-16,Groceries,,cash
+616989,Eva,09350648538,,Seattle,,Toys,,debit card
+569744,Charlie,09203222031,,San Francisco,,Sports,86.75,credit card 
+122906,Bob,09454301748,,Houston,2023-09-05,Home & Kitchen,,debit card
+218624,David,09980587391,,New York,,Home & Kitchen,,cash
+860127,Alice,09203510947,,Chicago,2023-08-07,Groceries,,credit card 
+722377,Alice,09209039107,,,,Electronics,,cash
+403243,Frank,09350894378,,Houston,2023-06-23,Home & Kitchen,,cash
+156036,Bob,09981004554,,Los Angeles,2023-03-19,Electronics,,credit card
+650934,Bob,09357526340,,Chicago,2023-04-06,Books,,paypal
+445870,Henry,09450160351,,Los Angeles,2023-01-24,Sports,10000.0,cash
+496673,Bob,09987712656,,Miami,2023-01-27,Electronics,10000.0,paypal
+190905,Charlie,09459978859,,Chicago,2023-09-05,Electronics,,cash
+244239,Frank,09179874701,50.0,Miami,2023-06-24,Toys,,paypal
+908428,David,09175482261,28.0,New York,2023-07-10,Clothing,330.31,paypal
+233748,Charlie,09171102798,,Chicago,,Clothing,38.99,paypal
+340538,Eva,09450862971,,New York,,Books,,cash
+399122,Alice,09459880757,,Seattle,2023-10-27,Toys,,cash
+215674,Alice,09354709311,,Los Angeles,,Clothing,,cash
+977844,Bob,09453450491,,Houston,2023-05-08,Toys,10000.0,paypal
+197511,Alice,09358720564,,Los Angeles,,Toys,10000.0,cash
+893419,Charlie,09351248018,,Los Angeles,2023-09-02,Electronics,10000.0,paypal
+549015,Eva,09178905269,,Los Angeles,2023-05-05,Toys,,paypal
+632756,Bob,09350311360,,Chicago,,Groceries,481.14,debit card
+612451,Frank,09204291978,,San Francisco,,Toys,183.81,cash
+818313,David,09456097998,,Miami,2023-12-25,Electronics,,paypal
+380472,Bob,09354213662,,New York,2023-02-26,Groceries,10000.0,debit card
+233027,Alice,09983241869,,Los Angeles,2023-09-21,Sports,,credit card 
+576538,David,09170740312,71.0,San Francisco,2023-12-03,Electronics,,
+458235,Alice,09209745194,,New York,2023-04-25,Groceries,10000.0,paypal
+235505,Grace,09455919588,,New York,2023-02-09,Books,,cash
+709745,Charlie,09202141343,,Houston,2023-03-12,Sports,347.59,cash
+866250,Charlie,09357582655,,Seattle,2023-06-01,Toys,,
+369853,Bob,09455013522,,Miami,,Books,,cash
+795315,Charlie,09170029074,,San Francisco,2023-12-20,Books,,credit card
+123564,David,09178077932,,San Francisco,2023-08-25,Books,,paypal
+142666,Alice,09204063408,,Chicago,,Sports,,debit card
+483915,Frank,09172423281,,San Francisco,,Sports,,
+186122,Eva,09987890145,,Houston,,Books,,
+829845,Henry,09987871642,,Seattle,2023-05-13,Electronics,10000.0,paypal
+913791,Frank,09176788419,,San Francisco,2023-01-01,Books,,credit card 
+817996,Bob,09356428879,,Los Angeles,2023-01-11,Books,,cash
+864166,Alice,09451740970,,Houston,2023-03-02,Home & Kitchen,,cash
+305450,Eva,09981076773,,San Francisco,2023-08-03,Groceries,10000.0,credit card 
+856799,Grace,09453806469,,Chicago,2023-12-08,Electronics,,cash
+703305,Charlie,09353351033,,Houston,2023-10-31,Toys,290.65,cash
+578836,Henry,09451522436,,Los Angeles,2023-09-26,Clothing,,paypal
+713729,Alice,09206818200,,Chicago,2023-12-21,Clothing,,
+575756,David,09209146436,,New York,2023-10-11,Clothing,,
+892761,Eva,09455105531,41.0,Los Angeles,2023-05-02,Home & Kitchen,,paypal
+592484,Grace,09458447023,,New York,2023-04-20,Sports,,credit card
+774696,Frank,09982468644,,New York,2023-07-20,Home & Kitchen,,debit card
+497317,David,09204874008,56.0,Seattle,,Sports,,paypal
+325782,Eva,09205111819,36.0,Chicago,2023-10-22,Groceries,,cash
+263960,Frank,09205656175,,Houston,2023-05-10,Groceries,10000.0,paypal
+855696,Charlie,09179905651,,Houston,,Groceries,,paypal
+153579,Alice,09207094057,,Miami,,Books,177.9,paypal
+643256,Grace,09206997447,59.0,San Francisco,2023-08-21,Toys,,credit card 
+748023,Eva,09986781744,,Chicago,2023-01-24,Electronics,,cash
+947907,Henry,09174383016,,New York,,Toys,112.83,credit card 
+514262,Charlie,09457785657,,Houston,2023-03-29,Electronics,,credit card 
+522411,Bob,09176674778,,Houston,2023-12-17,Home & Kitchen,305.84,paypal
+242942,Charlie,09985341225,,Los Angeles,2023-03-28,Groceries,,credit card
+269535,Charlie,09357989025,,Chicago,2023-03-16,Clothing,,cash
+559566,Henry,09989433808,80.0,San Francisco,2023-07-04,Toys,,debit card
+959317,Henry,09982668222,22.0,,2023-06-07,Home & Kitchen,,paypal
+404316,Bob,09988522967,,Los Angeles,2023-09-21,Books,135.71,debit card
+624447,Alice,09208871794,,Houston,2023-05-18,Books,,
+801988,Eva,09207243678,63.0,Los Angeles,2023-01-01,Home & Kitchen,,
+950482,Charlie,09358229825,,Los Angeles,2023-07-06,Books,10000.0,credit card
+960389,Charlie,09451666126,30.0,Los Angeles,2023-05-11,Books,,debit card
+405770,Bob,09451272560,,Chicago,,Home & Kitchen,,credit card 
+161959,Eva,09177410304,,,2023-12-17,Books,,credit card
+111628,Henry,09451909942,,Seattle,2023-10-23,Electronics,10000.0,
+509552,Grace,09170963769,,Seattle,,Books,,credit card
+695333,David,09350218446,,Seattle,2023-06-13,Groceries,,cash
+880694,Charlie,09984244904,,Houston,,Books,10000.0,
+585205,Grace,09456833934,,,,Toys,,debit card
+414356,Alice,09988726715,,Miami,2023-11-07,Electronics,85.55,cash
+410745,Frank,09171673889,,Chicago,,Electronics,,paypal
+133698,Alice,09357286017,,Miami,2023-09-22,Sports,10000.0,credit card 
+898782,Charlie,09980118807,,New York,,Sports,,debit card
+636466,Eva,09359416227,52.0,Los Angeles,2023-08-25,Groceries,,paypal
+881681,Charlie,09356665966,,Houston,2023-12-23,Sports,,debit card
+852031,Henry,09176877841,,Houston,,Toys,,cash
+200463,Grace,09359951037,,Houston,,Electronics,,debit card
+247275,David,09355590563,,San Francisco,,Groceries,,cash
+183552,Alice,09353787137,,Chicago,,Toys,208.39,debit card
+686938,Charlie,09987596691,,New York,2023-12-17,Home & Kitchen,,credit card 
+757355,Eva,09454869571,,,2023-07-21,Toys,,credit card 
+697147,Bob,09201185087,34.0,Miami,2023-04-16,Toys,,cash
+960583,Charlie,09986284801,,Miami,2023-08-01,Electronics,,debit card
+557486,Eva,09174404098,,Los Angeles,2023-04-07,Books,,cash
+635399,Eva,09209627242,,New York,2023-01-04,Sports,,credit card 
+694886,Alice,09350769953,,Los Angeles,2023-07-07,Electronics,,credit card
+433984,David,09178399051,,New York,2023-07-11,Clothing,,cash
+582075,Frank,09456048629,,Chicago,2023-06-17,Electronics,,credit card 
+631757,Eva,09455655290,,,2023-07-23,Books,10000.0,debit card
+309530,Alice,09203840204,,Los Angeles,2023-02-03,Books,,cash
+452107,Frank,09981422997,,Seattle,2023-12-28,Home & Kitchen,10000.0,
+851054,Henry,09458830048,,Seattle,2023-12-19,Electronics,276.83,cash
+783876,Henry,09204424434,,Houston,2023-03-31,Electronics,,debit card
+108037,Grace,09989033835,,San Francisco,,Electronics,,
+575804,Charlie,09202450392,,Houston,,Books,,credit card 
+326900,David,09177298270,,Seattle,,Groceries,10000.0,debit card
+375927,Charlie,09204361617,,Miami,,Groceries,10000.0,paypal
+366876,David,09982359687,,Los Angeles,2023-11-07,Sports,,paypal
+850166,Frank,09988431014,,San Francisco,,Home & Kitchen,,paypal
+747676,Grace,09351768258,,Los Angeles,2023-08-13,Home & Kitchen,,credit card 
+834084,Frank,09456860307,,Houston,2023-11-16,Books,,debit card
+659598,David,09358705725,,Houston,2023-04-26,Toys,,paypal
+806781,David,09355934408,,Seattle,2023-11-18,Clothing,,credit card
+487497,Bob,09174676892,,,2023-04-11,Groceries,,paypal
+410425,Frank,09171569215,,Los Angeles,2023-12-14,Electronics,,credit card
+342165,Henry,09988772147,,Houston,2023-05-08,Toys,,paypal
+345844,David,09354390466,,Houston,,Clothing,379.98,credit card
+728604,Bob,09982666877,,New York,,Home & Kitchen,10000.0,paypal
+480884,Grace,09450207652,,New York,,Electronics,,credit card
+927168,Eva,09450089499,,Miami,2023-03-03,Clothing,,cash
+615898,Eva,09203926472,85.0,Los Angeles,2023-02-06,Books,,cash
+612049,Bob,09359445777,,Seattle,,Home & Kitchen,,cash
+900130,Charlie,09357936344,,Houston,,Home & Kitchen,,credit card
+263522,Grace,09357175391,,San Francisco,,Electronics,,cash
+585430,Eva,09455574720,,San Francisco,,Toys,,debit card
+507182,Frank,09981206963,,Los Angeles,,Toys,,paypal
+511663,Charlie,09175584038,,Miami,2023-02-18,Clothing,,credit card 
+955205,Alice,09357423082,88.0,Seattle,2023-04-17,Clothing,,
+135721,Eva,09205457216,,Chicago,2023-04-25,Toys,407.59,
+620976,Henry,09359186804,,San Francisco,,Toys,59.52,paypal
+675186,Grace,09981397685,,Chicago,2023-02-04,Books,,credit card 
+945819,Bob,09450338721,,San Francisco,2023-03-18,Sports,,debit card
+926813,David,09201449377,,Chicago,2023-06-26,Books,,cash
+571600,Frank,09353046902,,New York,2023-12-30,Sports,,cash
+840127,Henry,09989089284,,Seattle,2023-08-10,Sports,,paypal
+854579,Eva,09208498489,,Los Angeles,2023-10-14,Electronics,,cash
+579799,Bob,09207786986,,Los Angeles,,Electronics,,paypal
+402459,Bob,09452759948,,Chicago,,Toys,10000.0,
+917653,Bob,09350279700,,Los Angeles,,Groceries,,credit card
+185853,Eva,09454225370,,Chicago,,Home & Kitchen,,
+102888,Alice,09980985214,,New York,,Books,10000.0,
+640133,Eva,09459862825,,Chicago,2023-01-23,Clothing,,
+879021,Henry,09202722150,,Los Angeles,,Toys,,debit card
+921575,Frank,09989009543,,Los Angeles,2023-04-27,Toys,,paypal
+238177,Henry,09982105615,,Chicago,2023-04-29,Books,355.61,credit card 
+437758,Grace,09358619574,,Chicago,2023-01-25,Electronics,107.51,debit card
+413776,Frank,09205936378,,Houston,2023-03-19,Toys,278.41,
+476240,David,09172910979,,Miami,2023-11-03,Clothing,,cash
+763531,Eva,09203310779,,Houston,,Home & Kitchen,,cash
+418122,Grace,09174887228,,Miami,2023-02-18,Toys,,cash
+377321,Frank,09980733458,21.0,Seattle,2023-04-26,Electronics,,debit card
+824254,Grace,09202363259,,Houston,2023-11-08,Clothing,10000.0,
+416660,Eva,09458828456,83.0,Seattle,2023-01-01,Electronics,,credit card
+828482,David,09203327958,,Miami,2023-02-07,Groceries,,cash
+570642,Alice,09989982051,,Seattle,,Books,10000.0,debit card
+471600,Charlie,09176035206,,San Francisco,,Books,,credit card
+125016,Charlie,09450548622,,Miami,,Groceries,,cash
+751543,Alice,09354050320,,Houston,,Books,,debit card
+677618,Charlie,09456518968,,New York,,Home & Kitchen,,paypal
+928065,Henry,09170421668,,San Francisco,2023-06-16,Books,,debit card
+582959,Frank,09986188691,,Los Angeles,2023-05-09,Electronics,,credit card 
+457829,Henry,09201705297,,Los Angeles,2023-08-16,Groceries,325.93,
+725742,Henry,09982744124,,San Francisco,2023-03-03,Electronics,,
+473499,Bob,09351030609,,San Francisco,2023-04-20,Toys,,
+791542,Henry,09201563918,,Seattle,,Electronics,10000.0,cash
+478361,Bob,09173496835,,New York,,Sports,10000.0,
+881707,Henry,09986940668,34.0,Los Angeles,2023-03-07,Home & Kitchen,10000.0,paypal
+438737,Eva,09987124324,,Houston,2023-08-30,Sports,10000.0,credit card 
+342029,David,09351950581,,Chicago,2023-08-14,Books,,cash
+407120,Bob,09173071037,,New York,2023-06-29,Electronics,,debit card
+171012,Henry,09458205530,,Chicago,2023-04-27,Groceries,,debit card
+736106,Charlie,09175158999,,New York,2023-08-07,Sports,,paypal
+268535,David,09985666018,,Miami,,Clothing,,credit card 
+359341,Alice,09170218465,,Seattle,2023-02-02,Toys,,paypal
+610472,Alice,09179621533,73.0,Los Angeles,2023-01-24,Sports,,cash
+275632,Grace,09984473646,,San Francisco,,Home & Kitchen,,credit card 
+674944,David,09981090947,,New York,,Toys,,credit card 
+244731,Bob,09352965375,,Miami,,Home & Kitchen,,cash
+240644,Grace,09201762785,,Miami,,Toys,,cash
+932644,Charlie,09452573907,,,,Home & Kitchen,,cash
+605171,Charlie,09982141392,33.0,New York,2023-09-30,Toys,,paypal
+165352,Eva,09455706833,,Chicago,2023-06-04,Toys,277.06,credit card
+237136,Alice,09452195043,,San Francisco,2023-09-11,Electronics,391.72,credit card 
+520219,David,09179671434,,Seattle,2023-12-20,Toys,,credit card
+933297,Bob,09985127400,,Chicago,,Clothing,,credit card
+799123,David,09353683512,21.0,Chicago,2023-06-02,Books,,credit card
+821876,Alice,09988064843,86.0,San Francisco,,Home & Kitchen,,paypal
+893075,Grace,09351310431,,Houston,2023-02-28,Sports,10000.0,credit card
+782095,Charlie,09355648886,,Seattle,2023-01-06,Groceries,,cash
+720696,Bob,09175263612,,Chicago,,Clothing,10000.0,cash
+110000,Eva,09179436449,,,2023-03-29,Toys,,credit card
+875925,David,09984739790,,San Francisco,,Electronics,,debit card
+777920,Bob,09985494020,,New York,2023-09-11,Home & Kitchen,,credit card 
+343934,Eva,09982924178,22.0,San Francisco,2023-04-19,Groceries,,
+635798,David,09451240680,,Los Angeles,2023-04-03,Groceries,,cash
+892118,Grace,09985862942,,San Francisco,,Clothing,,paypal
+715353,Henry,09988052338,,Miami,2023-07-31,Groceries,,cash
+722780,Frank,09200271302,,Chicago,2023-10-22,Toys,,debit card
+501035,Bob,09174797337,,Houston,2023-05-19,Home & Kitchen,,cash
+711162,Henry,09358420787,44.0,Los Angeles,2023-12-20,Groceries,377.15,debit card
+895636,Frank,09984533150,,Houston,,Sports,,cash
+396006,Frank,09207414763,,San Francisco,2023-07-24,Toys,,credit card 
+564209,Henry,09170129895,,Seattle,,Clothing,,paypal
+280792,Henry,09208444644,,Chicago,2023-02-14,Home & Kitchen,388.96,paypal
+114543,Eva,09352826312,37.0,San Francisco,2023-01-20,Electronics,,credit card 
+687754,Alice,09202092416,,Chicago,2023-03-11,Clothing,,paypal
+542675,Henry,09988704736,,Chicago,2023-04-15,Books,,debit card
+298243,Frank,09456718430,,Houston,2023-06-13,Clothing,,debit card
+624908,Charlie,09353553642,,Los Angeles,2023-03-14,Sports,,
+213999,Frank,09987681405,,New York,2023-11-03,Groceries,,cash
+722516,David,09358346585,,Los Angeles,,Electronics,,debit card
+448749,Grace,09454992985,,Houston,2023-05-29,Electronics,10000.0,paypal
+138429,Bob,09456803119,60.0,Seattle,2023-06-14,Clothing,,
+637189,Eva,09980084700,,Chicago,2023-08-10,Home & Kitchen,10000.0,cash
+151574,Alice,09986087394,,San Francisco,,Toys,70.54,credit card
+964387,David,09172058503,,Los Angeles,2023-01-03,Home & Kitchen,453.16,cash
+263830,Charlie,09455486973,,Los Angeles,2023-12-15,Groceries,,
+904032,Bob,09457306011,,Chicago,2023-02-07,Sports,10000.0,cash
+707059,Bob,09454421606,,New York,,Sports,75.32,cash
+654728,Alice,09357446798,,Miami,2023-09-15,Groceries,,paypal
+184293,Charlie,09355715047,,New York,2023-02-26,Groceries,,paypal
+618213,Bob,09173993907,,Los Angeles,2023-11-16,Clothing,,credit card
+261557,Alice,09989885528,,New York,2023-08-24,Home & Kitchen,10000.0,credit card
+386530,Grace,09173301525,,Seattle,,Toys,10000.0,cash
+789359,David,09456313152,,Seattle,,Groceries,169.34,debit card
+827703,Frank,09987387551,40.0,Seattle,2023-08-11,Toys,499.67,credit card
+153932,Henry,09455993464,,New York,2023-12-23,Books,,debit card
+595115,David,09175396379,,Miami,2023-08-30,Home & Kitchen,,debit card
+809418,Bob,09453259971,,New York,2023-04-25,Groceries,,debit card
+873180,Grace,09203085031,,Los Angeles,2023-08-09,Sports,,cash
+686583,Grace,09986299628,,San Francisco,2023-10-24,Sports,,debit card
+585492,Frank,09170620457,,Chicago,2023-07-06,Electronics,160.97,
+221061,Henry,09359461490,,Los Angeles,,Sports,360.76,paypal
+886977,Henry,09172333753,,San Francisco,2023-11-07,Sports,289.06,debit card
+486434,David,09207927001,,Los Angeles,2023-07-07,Sports,10000.0,debit card
+445432,Alice,09351702035,52.0,Miami,2023-07-07,Groceries,,paypal
+932629,David,09177887387,,Los Angeles,2023-04-26,Electronics,,
+835897,Frank,09202269081,,Miami,2023-10-03,Sports,10000.0,credit card
+514225,Eva,09207196131,,Seattle,2023-03-30,Home & Kitchen,,debit card
+978793,Frank,09176810728,19.0,Los Angeles,2023-12-02,Toys,,cash
+407454,Grace,09172825544,,San Francisco,,Electronics,,cash
+550355,Charlie,09174301801,,Chicago,2023-08-14,Toys,472.75,paypal
+650260,Eva,09980511718,,Chicago,,Books,121.82,paypal
+214576,David,09455824658,,Chicago,2023-11-21,Groceries,276.9,paypal
+485780,Henry,09358027852,,Seattle,2023-12-31,Home & Kitchen,,paypal
+619387,Alice,09980581001,56.0,San Francisco,2023-11-17,Home & Kitchen,,paypal
+126772,Henry,09209139992,19.0,Los Angeles,2023-03-11,Groceries,,debit card
+529991,Alice,09205243189,,San Francisco,2023-05-10,Toys,,paypal
+306474,Henry,09204389916,,Chicago,2023-03-26,Toys,10000.0,cash
+160522,Henry,09176075346,,New York,2023-07-06,Toys,,debit card
+556101,Grace,09986800328,,Chicago,2023-01-24,Toys,,debit card
+476004,Charlie,09171558038,,Chicago,2023-05-01,Clothing,,credit card 
+801711,Henry,09989890894,,Miami,,Sports,10000.0,paypal
+521817,Frank,09353589855,,Miami,2023-10-05,Sports,,
+641779,Charlie,09458144490,54.0,San Francisco,,Toys,,paypal
+235766,Henry,09352305098,,Seattle,2024-01-01,Home & Kitchen,,credit card
+810407,Henry,09171589074,,Seattle,2023-04-15,Clothing,157.77,cash
+725153,David,09353824601,,Houston,2023-01-31,Clothing,,
+377697,Bob,09204578317,,Chicago,2023-09-04,Clothing,,paypal
+619917,David,09203734764,72.0,Miami,2023-05-18,Sports,,debit card
+507401,Charlie,09203316251,,New York,2023-04-24,Home & Kitchen,,debit card
+148747,Charlie,09179158529,,Houston,,Clothing,,credit card
+116884,Bob,09455951372,,,2023-10-10,Groceries,10000.0,paypal
+189908,Frank,09359668984,,San Francisco,2023-04-26,Toys,,debit card
+271661,David,09206563769,,Houston,2023-07-04,Groceries,,cash
+332454,David,09452231024,,Houston,,Electronics,,debit card
+145322,Alice,09355547779,44.0,,2023-06-05,Electronics,165.35,credit card 
+261590,Alice,09456150073,,Los Angeles,2023-06-14,Books,,debit card
+948706,Grace,09178592888,,Miami,2023-10-30,Groceries,,debit card
+242629,Alice,09980683447,,Miami,2023-01-31,Clothing,,credit card
+836232,Bob,09172974319,,New York,2023-12-28,Sports,,
+610909,Henry,09985669862,,Los Angeles,2023-08-04,Clothing,268.01,cash
+106915,David,09455359271,,Seattle,,Books,,credit card
+859364,Eva,09989595354,,Seattle,2023-11-29,Toys,10000.0,cash
+437285,Eva,09355123576,,Chicago,2023-12-28,Electronics,,cash
+910498,Henry,09352934795,,New York,,Home & Kitchen,10000.0,debit card
+627622,David,09201330185,,New York,2023-06-29,Books,,credit card
+964165,Grace,09452472909,,Chicago,2023-01-17,Sports,10000.0,
+373978,Alice,09353856500,,San Francisco,2023-05-17,Clothing,421.6,credit card 
+941978,David,09202269415,21.0,San Francisco,2023-02-14,Home & Kitchen,,debit card
+453467,Charlie,09207956433,,Miami,2023-01-15,Electronics,222.98,debit card
+766989,Alice,09209338463,,San Francisco,2023-06-24,Clothing,,credit card
+141689,Bob,09450571703,,Houston,2023-05-22,Books,,
+341111,Alice,09174248360,,New York,2023-03-09,Toys,10000.0,cash
+113648,Henry,09179331914,,New York,2023-12-11,Books,10000.0,debit card
+219164,Frank,09202070965,,Los Angeles,,Electronics,,cash
+766386,Frank,09179684603,,Houston,,Home & Kitchen,257.17,credit card 
+936656,David,09357209009,,Houston,2023-03-28,Groceries,281.95,credit card 
+744174,Bob,09456037030,,New York,2023-08-06,Clothing,,
+724184,David,09354482392,,Chicago,2023-07-08,Electronics,10000.0,debit card
+311511,Henry,09209267385,,Los Angeles,2023-11-17,Groceries,,debit card
+421088,Grace,09455413016,,Los Angeles,,Clothing,,cash
+906064,David,09359168299,37.0,New York,2023-01-13,Groceries,,cash
+180719,Frank,09173297464,,San Francisco,2023-06-21,Electronics,,paypal
+446954,Frank,09173053448,,New York,,Electronics,10000.0,cash
+146375,Grace,09357059820,,New York,,Home & Kitchen,,debit card
+298138,David,09207746568,,,2023-07-11,Electronics,,debit card
+977047,Alice,09989678587,,Seattle,2023-11-30,Home & Kitchen,215.83,credit card
+955637,Frank,09177881627,,New York,2023-04-12,Home & Kitchen,12.19,debit card
+342756,Charlie,09174403563,,,2023-03-12,Books,,credit card
+663568,Grace,09179906158,,San Francisco,2023-09-29,Electronics,,debit card
+552288,Grace,09352020349,,Los Angeles,2023-04-26,Books,421.27,credit card 
+337892,Alice,09201809707,,Los Angeles,2023-03-29,Home & Kitchen,,credit card
+344520,Grace,09358584424,40.0,Chicago,,Toys,10000.0,debit card
+333449,Grace,09177890831,,Miami,2023-08-21,Home & Kitchen,10000.0,debit card
+495987,Bob,09455900106,,Miami,2023-01-17,Home & Kitchen,,cash
+829486,Charlie,09178297610,,Houston,2023-08-17,Clothing,,paypal
+663049,Eva,09458288042,,Seattle,2023-08-06,Groceries,,paypal
+597021,David,09456120101,,Miami,2023-01-29,Toys,,debit card
+353490,Alice,09989889440,84.0,Miami,2023-04-17,Toys,,cash
+116692,Grace,09207247998,62.0,Houston,2023-06-23,Toys,,debit card
+119934,Bob,09202325101,61.0,Seattle,2023-08-30,Home & Kitchen,,paypal
+853022,Eva,09457409042,87.0,Seattle,2023-10-16,Sports,,debit card
+508222,Charlie,09350082542,,Los Angeles,,Home & Kitchen,307.99,credit card 
+226874,Eva,09456626306,,Miami,2023-06-28,Electronics,,debit card
+575885,Bob,09354312516,,Chicago,2023-05-10,Electronics,,debit card
+339261,Charlie,09454214823,,San Francisco,2023-07-08,Clothing,,paypal
+946290,David,09984950560,,Chicago,2023-01-21,Toys,,paypal
+144498,Frank,09204079442,,San Francisco,2023-04-23,Home & Kitchen,,
+998390,Eva,09177596777,,Houston,2023-04-06,Clothing,,cash
+915345,Eva,09986951521,,New York,2023-09-03,Clothing,,credit card
+834058,David,09201007501,,San Francisco,2023-11-26,Books,,cash
+632648,Grace,09179654319,,San Francisco,2023-09-26,Sports,,paypal
+878707,David,09357404850,,San Francisco,2023-04-26,Electronics,,cash
+195465,Charlie,09175306280,59.0,Chicago,2023-06-19,Sports,310.31,cash
+505025,Henry,09359950396,,Seattle,2023-07-17,Clothing,177.01,cash
+933770,Grace,09205846821,,New York,2023-07-16,Clothing,,credit card 
+645723,Henry,09452919978,,Miami,,Home & Kitchen,258.52,cash
+708017,Henry,09358155033,,Chicago,2023-01-10,Toys,,credit card 
+612403,Eva,09179164447,,Seattle,2023-05-26,Home & Kitchen,,cash
+427129,David,09176819522,,Los Angeles,2023-11-20,Electronics,,
+970422,Henry,09988139591,,Miami,2023-11-07,Clothing,10000.0,debit card
+537883,Charlie,09457925256,,San Francisco,2023-10-29,Electronics,,credit card
+147697,Eva,09459315714,,New York,2023-06-03,Home & Kitchen,,credit card
+626107,Grace,09988243814,,New York,2023-02-18,Toys,397.99,cash
+151530,Charlie,09172618568,,Chicago,,Groceries,,paypal
+847476,Henry,09459187327,,Los Angeles,2023-05-24,Electronics,,cash
+874881,Alice,09204005530,,Miami,2023-12-24,Home & Kitchen,,paypal
+832116,Eva,09359220511,,New York,2023-07-07,Groceries,,debit card
+334012,Bob,09455594520,,New York,2023-05-05,Books,,paypal
+392598,Grace,09981375386,,New York,2023-07-05,Sports,436.06,credit card 
+118935,Bob,09205077113,,Miami,,Sports,,cash
+373267,Frank,09457677848,,New York,,Home & Kitchen,,paypal
+330027,Alice,09170579187,38.0,Los Angeles,2023-11-20,Electronics,10000.0,cash
+983052,Frank,09176418196,,San Francisco,,Books,,paypal
+922594,Henry,09982087498,90.0,Seattle,2023-05-26,Home & Kitchen,,debit card
+868059,Alice,09209993221,41.0,,2023-10-14,Toys,,paypal
+445143,Grace,09459789512,,,2023-11-13,Home & Kitchen,10000.0,debit card
+634064,Bob,09358485701,,Miami,2023-06-28,Toys,,cash
+607751,Alice,09982306635,58.0,San Francisco,2023-02-28,Books,,paypal
+810930,Bob,09454628771,,San Francisco,,Clothing,,cash
+280313,Grace,09457992053,,New York,2023-05-14,Home & Kitchen,10000.0,cash
+525125,Grace,09357205973,,,,Clothing,117.42,debit card
+747396,Alice,09450863076,,Seattle,,Groceries,10000.0,credit card 
+506965,David,09353177678,,Houston,2023-04-04,Groceries,,cash
+219197,David,09171770781,25.0,Chicago,2023-08-07,Groceries,10000.0,credit card
+803487,Alice,09202334983,,Houston,2023-03-11,Toys,10000.0,
+939792,Charlie,09988403641,,Houston,2023-04-07,Toys,26.03,credit card
+772617,Eva,09980930648,,Los Angeles,2023-05-16,Groceries,10000.0,paypal
+858836,Alice,09201838034,,San Francisco,,Sports,,cash
+600243,Eva,09456570878,,Houston,2023-07-16,Clothing,10000.0,paypal
+370108,Frank,09209937279,,Los Angeles,,Home & Kitchen,,cash
+461083,Frank,09450595452,,Houston,2023-05-21,Sports,302.58,
+768377,Eva,09452316773,,San Francisco,2023-12-20,Groceries,326.73,cash
+712904,Bob,09178603433,86.0,Seattle,2023-01-28,Clothing,,debit card
+163997,Alice,09980090756,,San Francisco,2023-06-22,Books,,credit card
+731121,Bob,09982194812,,,2023-05-15,Clothing,10000.0,paypal
+740538,Bob,09981928028,,Los Angeles,2023-01-24,Clothing,163.49,cash
+800666,Grace,09454712024,,Miami,,Toys,,debit card
+487087,David,09982427336,,Miami,2023-02-01,Sports,,
+146451,Charlie,09988721070,,Los Angeles,2023-04-17,Toys,,debit card
+870352,Eva,09201508732,,Houston,2023-08-11,Books,129.13,paypal
+688307,Bob,09456118671,,Houston,2023-05-19,Groceries,,credit card
+667336,Alice,09353735604,,New York,,Home & Kitchen,,credit card
+804869,Frank,09208833872,,Miami,2023-11-29,Electronics,,paypal
+499711,Alice,09354946555,,New York,,Sports,,credit card
+274488,Bob,09453995018,,San Francisco,,Electronics,25.59,debit card
+160293,Alice,09174925038,,New York,2023-05-16,Home & Kitchen,262.23,credit card 
+644555,Bob,09202787469,,Seattle,,Electronics,,paypal
+186099,Bob,09351160074,,New York,,Sports,,cash
+784080,Eva,09988978121,,San Francisco,,Groceries,,paypal
+646118,Grace,09989583830,,Seattle,2023-02-17,Electronics,,debit card
+230437,Frank,09982744764,,New York,2023-11-02,Toys,,cash
+184039,Bob,09202535677,,Houston,2023-11-05,Books,,cash
+622181,Alice,09350728598,42.0,Los Angeles,2023-02-18,Toys,,
+746805,Grace,09455448240,,Miami,2023-02-14,Home & Kitchen,,credit card 
+243815,Henry,09982306198,,New York,,Sports,,paypal
+590047,Alice,09453666404,,Chicago,2023-07-16,Sports,,debit card
+283365,Eva,09177088902,,San Francisco,2023-10-23,Sports,,debit card
+772543,David,09200576900,,New York,2023-01-02,Groceries,,
+530535,Grace,09206771898,,Houston,2023-06-12,Electronics,,debit card
+117237,Eva,09201114307,,Houston,2023-09-08,Clothing,10000.0,debit card
+948010,Henry,09456855173,,Houston,2023-12-30,Sports,,cash
+537666,Eva,09450160372,,San Francisco,2023-03-31,Home & Kitchen,10000.0,cash
+123523,Charlie,09452153585,,Houston,,Clothing,,credit card
+477019,Grace,09179906657,,San Francisco,,Books,,cash
+180453,David,09171972493,,Chicago,,Sports,,
+142218,Alice,09452782671,,New York,2023-08-03,Electronics,,cash
+568791,Eva,09353606210,,Miami,2023-06-16,Sports,,debit card
+209431,Eva,09170028929,,Houston,2023-10-02,Toys,,cash
+745115,Alice,09983070934,,Seattle,,Home & Kitchen,,cash
+776305,Eva,09200089466,,New York,,Home & Kitchen,,cash
+175807,Bob,09357742270,,Seattle,2023-05-11,Books,454.47,credit card 
+429142,Frank,09200022029,,New York,,Clothing,370.47,credit card 
+929546,Charlie,09208511429,,Miami,2023-04-11,Toys,,credit card 
+162406,Henry,09175322533,,New York,2023-03-31,Electronics,,debit card
+996931,Grace,09351197334,,Chicago,2023-12-26,Electronics,210.81,debit card
+712161,Eva,09350625787,57.0,San Francisco,2023-04-23,Groceries,,debit card
+489616,David,09354361492,,San Francisco,2023-06-04,Toys,,cash
+319703,Alice,09179673566,,Miami,2023-11-28,Books,10000.0,
+691508,Bob,09454397034,,Seattle,2023-11-15,Electronics,475.57,credit card 
+652263,David,09989351896,,New York,,Electronics,,credit card 
+125256,Henry,09203464291,,Miami,2023-08-10,Groceries,,cash
+647826,Alice,09354896221,,Houston,,Books,,credit card
+782088,Bob,09985402470,,Seattle,,Toys,366.01,credit card
+527229,Frank,09176096378,,Miami,2023-03-24,Books,,cash
+927910,Grace,09171833969,,San Francisco,2023-05-02,Toys,,paypal
+545937,Alice,09353895166,,New York,2023-05-01,Electronics,,cash
+361713,Charlie,09178341313,,Miami,,Home & Kitchen,,debit card
+978075,Frank,09176603168,,San Francisco,2023-09-12,Sports,163.68,paypal
+699414,Alice,09354511753,,San Francisco,2023-01-01,Toys,,debit card
+561200,Charlie,09351995418,,San Francisco,,Home & Kitchen,10000.0,paypal
+765004,Grace,09177957024,,Los Angeles,2023-03-02,Sports,,
+322827,David,09206254523,,Chicago,2023-05-17,Clothing,10000.0,debit card
+595613,Bob,09450111791,,Seattle,2023-07-16,Electronics,,paypal
+520843,Bob,09459521438,,San Francisco,2023-01-19,Books,,debit card
+657260,Henry,09358119309,,Chicago,,Toys,10000.0,debit card
+551510,Eva,09355707387,,San Francisco,,Clothing,10000.0,credit card
+544318,Alice,09176089573,29.0,San Francisco,2023-08-15,Groceries,,debit card
+440415,Frank,09174164406,,New York,2023-03-07,Electronics,,paypal
+920882,Bob,09179817571,,Houston,2023-07-25,Clothing,433.3,debit card
+219047,Grace,09204608376,,,2023-07-06,Groceries,,credit card
+424158,Frank,09452637412,,San Francisco,2023-09-18,Toys,,debit card
+965343,Henry,09176480530,,San Francisco,2023-10-14,Groceries,424.91,credit card 
+250037,Alice,09981181492,,Chicago,2023-04-13,Books,,credit card 
+132132,Bob,09451681461,,,2023-04-16,Toys,,debit card
+561999,Charlie,09454082537,,San Francisco,2023-12-10,Books,,cash
+988819,Charlie,09983682384,,New York,,Books,,debit card
+398736,Frank,09989577266,,San Francisco,,Groceries,,credit card
+446219,Eva,09451413197,,Houston,2023-06-12,Clothing,,paypal
+730734,Frank,09355664929,,Houston,,Electronics,,cash
+845973,Bob,09988236068,76.0,New York,2023-03-01,Sports,,debit card
+582092,Alice,09176832912,,Miami,2023-07-22,Toys,,cash
+502941,Bob,09205455478,,Chicago,,Groceries,,paypal
+903836,Eva,09209905866,,New York,2023-01-01,Books,,credit card
+766194,Bob,09983277315,,San Francisco,2023-04-09,Home & Kitchen,,debit card
+914296,Charlie,09201556144,88.0,San Francisco,2023-11-14,Home & Kitchen,,paypal
+438986,Grace,09173016088,,Los Angeles,2023-01-25,Electronics,,paypal
+765842,Alice,09203956614,,New York,2023-12-20,Books,392.02,paypal
+927052,Eva,09178096303,51.0,,2023-01-11,Books,,debit card
+137647,Grace,09201483116,74.0,Los Angeles,2023-04-23,Sports,407.35,debit card
+245072,Alice,09209246878,,Seattle,2023-06-05,Electronics,,paypal
+183258,Eva,09170792246,,Houston,2023-09-15,Sports,,cash
+729922,Frank,09453039191,,San Francisco,2023-06-03,Toys,,cash
+628181,Grace,09986215347,69.0,Houston,2023-03-07,Books,10000.0,credit card 
+232753,Grace,09209030628,,,2023-09-17,Electronics,,credit card 
+823104,Charlie,09987747126,,Chicago,,Home & Kitchen,,
+142852,Henry,09201447411,,New York,2023-12-28,Books,,debit card
+149704,Charlie,09173726608,,New York,2023-12-16,Electronics,,cash
+500385,Frank,09172104925,,,2023-07-06,Clothing,,debit card
+654260,Charlie,09981933927,,Chicago,2023-04-02,Electronics,,debit card
+305336,David,09454609540,,Seattle,,Home & Kitchen,,paypal
+661032,Henry,09986972019,,San Francisco,,Groceries,,
+898342,Charlie,09457606232,,Chicago,2023-05-02,Toys,96.89,
+862253,Grace,09201845878,,New York,2023-06-21,Books,,credit card
+765462,Charlie,09177055853,,New York,,Toys,,paypal
+933651,Bob,09207987034,,Miami,2023-09-24,Groceries,,cash
+723778,Grace,09200558479,,Houston,2023-02-28,Toys,,credit card
+616833,Frank,09450978547,,Miami,2023-03-20,Books,,debit card
+221254,Eva,09984003266,,Houston,2023-02-05,Home & Kitchen,311.49,credit card 
+132134,Alice,09200708847,,Miami,,Groceries,389.17,debit card
+274693,Eva,09203001476,,Los Angeles,2023-11-08,Groceries,230.16,credit card
+800027,Charlie,09179375479,,Chicago,,Sports,447.88,debit card
+336181,Grace,09171803202,,Chicago,,Sports,191.08,cash
+672486,Frank,09352563376,,New York,2023-09-23,Electronics,,
+618536,Alice,09455241728,81.0,Miami,2023-04-05,Groceries,,cash
+879991,Bob,09352826036,,Chicago,,Toys,27.58,paypal
+497554,Frank,09454293489,,New York,,Groceries,,debit card
+353759,Bob,09980447777,56.0,Houston,2023-06-09,Clothing,109.63,cash
+664492,Eva,09357900590,,Miami,2023-07-13,Electronics,,cash
+460981,Charlie,09172020850,,Los Angeles,,Electronics,10000.0,debit card
+198503,Bob,09200814140,,Seattle,2023-08-02,Home & Kitchen,10000.0,debit card
+386588,Alice,09458999637,,Chicago,,Home & Kitchen,,cash
+421439,Grace,09458702627,,Los Angeles,2023-01-02,Books,,
+717544,Eva,09987141021,,Los Angeles,2023-01-04,Sports,,
+718276,Grace,09353401709,72.0,Miami,2023-06-28,Groceries,,paypal
+415674,Grace,09205025196,,Chicago,2023-10-25,Groceries,,paypal
+528700,Eva,09981270154,,New York,2023-01-27,Electronics,,paypal
+723234,Charlie,09172075393,,Chicago,2023-09-07,Books,160.8,cash
+652456,Eva,09452450815,,New York,2023-04-27,Electronics,,debit card
+151775,Alice,09983538222,,Los Angeles,,Home & Kitchen,,cash
+182504,Bob,09985950343,,Miami,,Electronics,144.74,cash
+475738,Henry,09356218034,,Houston,2023-06-21,Home & Kitchen,48.22,cash
+767390,Charlie,09200107165,38.0,Seattle,2023-08-31,Sports,,paypal
+710205,Charlie,09201319268,,Miami,,Toys,10000.0,credit card 
+118135,Eva,09350509408,,Miami,,Clothing,,credit card 
+181643,Eva,09455690599,,Los Angeles,2023-02-08,Home & Kitchen,387.93,cash
+425499,Grace,09454854752,,San Francisco,2023-02-16,Electronics,,debit card
+151931,Henry,09451627872,,San Francisco,2023-11-04,Electronics,,debit card
+458731,Bob,09355320273,,Los Angeles,2023-11-18,Books,189.05,cash
+837179,Frank,09206896924,,Los Angeles,2023-04-20,Clothing,,debit card
+762264,Alice,09200027670,,New York,2023-05-05,Home & Kitchen,,paypal
+861816,Bob,09204033008,,San Francisco,,Books,,credit card
+974986,Frank,09452009010,,Miami,2023-09-18,Groceries,480.07,credit card 
+414350,Eva,09351647400,,Chicago,2023-07-25,Sports,,credit card
+570605,Grace,09359432399,,Chicago,2023-03-15,Groceries,,debit card
+261394,Charlie,09458308138,,Seattle,2023-12-05,Groceries,10000.0,debit card
+907246,Grace,09201762408,,Chicago,2023-01-21,Sports,10000.0,
+345019,Charlie,09356933099,,San Francisco,2023-03-25,Home & Kitchen,,debit card
+645116,Alice,09985806068,,Miami,,Electronics,,
+816335,Alice,09984542645,,Seattle,2023-08-30,Sports,,credit card
+514630,Frank,09981586171,,Los Angeles,2023-03-19,Toys,,debit card
+102735,Frank,09984828970,,Miami,2023-10-22,Home & Kitchen,,credit card
+632627,Henry,09179775548,45.0,New York,2023-07-23,Electronics,,paypal
+422860,Bob,09173666769,,Houston,2023-01-16,Books,,paypal
+565760,Bob,09201364322,,San Francisco,2023-06-14,Clothing,,cash
+956638,David,09200172254,,New York,2023-01-14,Clothing,,cash
+107344,Henry,09989946003,,,2023-06-23,Groceries,295.9,credit card
+542817,Bob,09358134893,84.0,Seattle,2023-01-01,Books,,credit card 
+281614,Frank,09982028814,,New York,,Home & Kitchen,,credit card 
+410636,Henry,09984710324,34.0,Seattle,,Home & Kitchen,276.15,cash
+627532,Frank,09205177053,,,,Sports,,paypal
+430037,Bob,09178577658,43.0,New York,2023-07-12,Groceries,,cash
+453362,Frank,09451957944,,San Francisco,,Toys,,cash
+112311,Grace,09359170951,,,2023-08-20,Groceries,,paypal
+519917,Grace,09351907310,,Houston,,Toys,,cash
+410917,Eva,09455701456,,Seattle,2023-11-28,Toys,,cash
+158044,Alice,09351848548,,Miami,2023-05-10,Books,10000.0,debit card
+931907,Bob,09350902051,,San Francisco,2023-10-27,Sports,,cash
+664825,Charlie,09206753056,,Miami,2023-07-29,Electronics,,debit card
+254974,Alice,09200165230,,Chicago,2023-01-23,Toys,,
+701392,David,09350149346,,Los Angeles,2023-06-11,Clothing,10000.0,credit card
+185713,Bob,09456799254,,Houston,2023-07-10,Electronics,10000.0,
+625982,Alice,09359255941,,Los Angeles,2023-01-31,Home & Kitchen,10000.0,cash
+761672,Bob,09174080516,,Los Angeles,2023-06-26,Electronics,,cash
+317236,Frank,09174276492,,San Francisco,2023-05-28,Electronics,10000.0,debit card
+647534,Alice,09454451416,,San Francisco,2023-10-21,Books,,cash
+623869,Eva,09986545219,,San Francisco,,Home & Kitchen,,cash
+609898,Charlie,09207740782,,Houston,2023-06-05,Electronics,,credit card
+123198,Charlie,09988044163,,Chicago,2023-07-03,Groceries,,debit card
+487234,Eva,09205872260,,Miami,,Books,10000.0,cash
+188616,Grace,09173969134,,Seattle,2023-09-22,Groceries,10000.0,paypal
+996479,Henry,09986126203,,New York,2023-01-26,Sports,,paypal
+654565,Alice,09177760521,,,2023-08-20,Books,,debit card
+198970,Bob,09458550518,,Miami,,Toys,289.48,paypal
+699375,Alice,09357323645,32.0,Los Angeles,2023-12-01,Electronics,,credit card 
+980744,Frank,09451111509,,New York,2023-04-22,Groceries,68.23,credit card
+981796,Grace,09451252293,,Chicago,,Toys,,paypal
+711879,Charlie,09171721687,,Chicago,,Home & Kitchen,,credit card 
+509021,Frank,09358954312,,Chicago,2023-05-19,Sports,,credit card 
+420939,Henry,09457242442,,,2023-10-29,Clothing,,cash
+740964,Grace,09209671700,,Chicago,2023-12-23,Home & Kitchen,,debit card
+788388,David,09174441121,,San Francisco,2023-03-16,Sports,10000.0,cash
+416585,Bob,09204456349,,San Francisco,2023-03-21,Home & Kitchen,,debit card
+135541,Alice,09176407959,22.0,Seattle,,Groceries,,debit card
+232768,Charlie,09454061780,,Chicago,,Home & Kitchen,113.41,
+494025,Charlie,09355489074,,New York,,Sports,10000.0,debit card
+915953,Henry,09201661340,,Seattle,2023-08-10,Toys,325.17,credit card 
+283922,Alice,09457280031,,,2023-09-26,Groceries,,paypal
+889512,Henry,09986987746,,Chicago,2023-06-27,Electronics,,cash
+469502,Frank,09457862397,,Miami,2023-08-19,Toys,473.12,credit card 
+178136,Grace,09353235245,,New York,2023-03-11,Clothing,10000.0,debit card
+437289,Henry,09989205712,28.0,,,Electronics,,credit card 
+934802,Henry,09982760258,,Houston,2023-02-15,Sports,,cash
+240003,Alice,09204374099,,Miami,,Books,,debit card
+712654,Eva,09357677152,,Los Angeles,,Home & Kitchen,10000.0,paypal
+818685,Grace,09352504132,,Houston,2023-06-11,Clothing,10000.0,debit card
+653178,Bob,09456658107,,San Francisco,,Toys,,credit card
+795647,Henry,09982372460,,New York,2023-04-10,Books,,credit card 
+344066,Henry,09205841067,,San Francisco,2023-02-19,Electronics,,paypal
+113720,Frank,09981573884,79.0,New York,,Clothing,,cash
+244384,Eva,09358327373,,Seattle,2023-07-01,Electronics,,debit card
+877488,Grace,09174021301,,Los Angeles,,Toys,,paypal
+135577,Bob,09981900974,,Chicago,2023-05-27,Sports,,credit card
+758958,Grace,09354956770,,New York,,Clothing,376.32,credit card
+974954,Charlie,09451559756,,Chicago,2023-07-11,Groceries,,paypal
+424176,Grace,09983734025,,Chicago,,Books,,
+561555,Henry,09209394665,,Seattle,2023-03-22,Groceries,,cash
+622047,Grace,09456381524,,New York,2023-07-31,Toys,10000.0,debit card
+219824,Grace,09353229238,,Houston,,Books,,cash
+340839,Charlie,09456104440,,New York,2023-08-18,Books,,debit card
+251132,Henry,09203225964,,Chicago,2023-04-28,Clothing,,paypal
+848547,David,09459984761,,Seattle,2023-01-29,Sports,,paypal
+203567,Grace,09178319081,,Miami,2023-06-27,Sports,,cash
+722254,Henry,09177170547,83.0,Chicago,2023-06-12,Groceries,,cash
+454330,Charlie,09208274531,,Seattle,,Electronics,,cash
+749913,Bob,09172821221,,Miami,2023-06-12,Groceries,10000.0,cash
+339226,Frank,09987860027,,San Francisco,2023-09-15,Sports,,debit card
+551963,Henry,09453036021,,Seattle,,Electronics,,debit card
+451997,Charlie,09171651777,,Seattle,2023-03-09,Toys,10000.0,debit card
+362733,Frank,09207549809,,Chicago,2023-01-30,Clothing,,credit card
+766887,Alice,09452063608,,Miami,2023-05-06,Books,,
+202215,Frank,09455262382,,Seattle,2023-05-11,Clothing,,cash
+491749,Frank,09175518987,,Houston,2023-06-25,Home & Kitchen,,paypal
+507687,Eva,09203926247,,Houston,2023-01-26,Groceries,,paypal
+846984,Henry,09457296603,,,2023-11-28,Groceries,262.34,
+954685,Charlie,09451385863,,Los Angeles,2023-07-17,Electronics,,paypal
+225561,Grace,09178684696,,New York,,Toys,10000.0,credit card 
+187698,Frank,09459905795,,Miami,2023-10-05,Sports,,cash
+389320,David,09178371981,,Houston,2023-09-22,Sports,10000.0,debit card
+856704,Henry,09457857737,,Chicago,2023-06-02,Toys,,credit card 
+114060,Grace,09357953010,,Seattle,2023-11-26,Groceries,,cash
+620891,Charlie,09352991852,,,,Home & Kitchen,,cash
+349149,Henry,09457192993,,Houston,2023-06-11,Home & Kitchen,,credit card
+391647,Alice,09174051706,,San Francisco,2023-09-29,Toys,,cash
+901788,David,09983309816,,San Francisco,2023-05-20,Toys,,credit card
+680584,David,09177262413,79.0,,,Toys,,debit card
+505935,Frank,09179977033,,Miami,2023-02-22,Sports,10000.0,debit card
+498690,Bob,09351289133,,Miami,2023-01-15,Clothing,,credit card
+356089,Eva,09989936676,,Houston,,Sports,10000.0,
+904152,Frank,09177279784,,Miami,,Clothing,10000.0,debit card
+181763,Grace,09454182332,,Seattle,2023-11-25,Sports,,paypal
+464584,David,09352822026,,Seattle,2023-02-10,Books,265.72,cash
+803638,Eva,09201021355,,Los Angeles,2023-03-24,Books,,cash
+959991,Frank,09983390589,31.0,Houston,2023-05-23,Groceries,,cash
+962813,Grace,09358034327,,Los Angeles,,Home & Kitchen,362.9,cash
+874556,Alice,09350635641,,Miami,2023-11-16,Electronics,10000.0,paypal
+735494,Charlie,09359196898,,Los Angeles,2023-11-05,Sports,,cash
+951754,David,09208460547,,Chicago,2023-02-01,Groceries,,paypal
+198583,Eva,09351302477,,Seattle,2023-11-06,Books,,cash
+108585,Eva,09450276432,,Houston,,Groceries,,credit card
+741699,Bob,09452378785,89.0,San Francisco,2023-05-02,Toys,34.97,cash
+188343,Alice,09356374107,,New York,,Clothing,241.7,credit card
+887667,Frank,09457306989,,San Francisco,2023-12-15,Clothing,,cash
+763927,David,09176118054,,San Francisco,2023-04-03,Electronics,,cash
+984649,David,09206649617,70.0,Miami,,Toys,,credit card 
+207185,Frank,09350570292,,Houston,2023-03-17,Sports,,paypal
+789827,Eva,09980921802,,San Francisco,2023-03-27,Home & Kitchen,,credit card 
+719401,Henry,09177059238,,New York,,Sports,10000.0,cash
+948862,Bob,09987188411,,Seattle,2023-07-18,Groceries,10000.0,paypal
+103239,David,09171812931,,New York,2023-07-05,Books,10000.0,cash
+484593,Alice,09179174384,,Seattle,,Home & Kitchen,10000.0,
+467436,Henry,09451360225,,Chicago,2023-03-26,Sports,10000.0,
+298782,Bob,09454487831,,San Francisco,2023-01-18,Sports,,cash
+579642,Alice,09209044352,,Houston,,Electronics,,cash
+431362,Henry,09174343652,,Miami,2023-04-09,Toys,,debit card
+509616,Charlie,09179503138,,Seattle,2023-11-20,Home & Kitchen,,debit card
+230318,Bob,09179613964,45.0,Chicago,,Home & Kitchen,,paypal
+609244,Alice,09450633917,,Los Angeles,2023-06-08,Clothing,193.52,debit card
+979248,Charlie,09983373125,,Seattle,,Toys,10000.0,debit card
+150728,Eva,09457084572,80.0,Seattle,2023-04-22,Toys,280.55,debit card
+590974,Grace,09454606762,,San Francisco,,Groceries,,paypal
+690026,Grace,09170701903,50.0,San Francisco,2023-09-30,Groceries,,paypal
+766310,Eva,09450587798,,Houston,2023-09-19,Clothing,,debit card
+329419,Eva,09172914016,,Houston,2023-06-21,Electronics,,debit card
+245500,Bob,09986065460,,Los Angeles,2023-09-09,Electronics,,debit card
+667642,Bob,09353607110,,Houston,2023-09-04,Toys,,credit card
+515747,Henry,09208417639,23.0,,2023-01-13,Books,,debit card
+736905,Henry,09178439763,,New York,2023-10-25,Sports,,debit card
+134054,Charlie,09205693485,,Chicago,2023-02-27,Sports,,paypal
+922023,David,09456214465,,Chicago,2023-03-04,Electronics,10000.0,credit card 
+694424,Bob,09458264025,,,2023-05-30,Clothing,,credit card 
+500569,Charlie,09177324732,,,2023-12-29,Clothing,382.34,debit card
+256493,Bob,09356282345,61.0,Miami,2023-04-04,Clothing,,cash
+230518,Henry,09170481973,,Seattle,2023-09-28,Books,,debit card
+251036,Charlie,09458692423,,Los Angeles,2023-02-16,Books,,debit card
+457156,Frank,09206024047,,Houston,2023-08-24,Home & Kitchen,10000.0,
+743859,Bob,09452530263,,New York,2023-03-08,Home & Kitchen,,cash
+972527,Grace,09358576871,,Miami,2023-03-17,Electronics,,paypal
+844705,Bob,09206602124,,Miami,2023-04-29,Home & Kitchen,10000.0,paypal
+667975,Frank,09173221749,,Seattle,2023-04-16,Electronics,,paypal
+743801,Frank,09353958446,,New York,2023-08-30,Toys,10000.0,credit card
+508507,David,09452429718,,New York,2023-09-16,Home & Kitchen,,debit card
+494491,Alice,09174810525,,New York,2023-01-11,Books,,credit card
+926092,Eva,09350979144,,Chicago,2023-04-18,Electronics,,credit card 
+574818,Frank,09200352026,,Seattle,2023-06-10,Sports,,paypal
+621959,Frank,09204800576,,Seattle,2023-09-25,Home & Kitchen,10000.0,debit card
+554282,Charlie,09173574186,,Los Angeles,,Groceries,10000.0,cash
+378490,Frank,09171897459,,,2023-11-12,Electronics,10000.0,paypal
+992766,Bob,09356684326,61.0,Houston,,Books,,cash
+890749,David,09454704748,,Chicago,,Sports,,paypal
+229773,Charlie,09458724702,,Chicago,2023-03-04,Home & Kitchen,,paypal
+585575,Alice,09176800734,,Los Angeles,2023-10-11,Home & Kitchen,,
+879129,Grace,09984777807,,Miami,2023-09-27,Clothing,,credit card 
+600169,Henry,09988052904,,Miami,2023-07-05,Clothing,,paypal
+947933,Frank,09452934901,,New York,2023-10-04,Sports,367.29,
+903538,Frank,09451125706,,,2023-01-29,Books,10000.0,cash
+455036,Henry,09984001081,,Houston,2023-01-27,Groceries,,credit card 
+325073,Bob,09459299530,,Miami,,Clothing,,debit card
+104309,Eva,09206985964,,Miami,2023-08-17,Electronics,,cash
+705120,Alice,09986588002,,Miami,2023-05-02,Toys,,debit card
+696328,Charlie,09172068097,87.0,Houston,2023-12-06,Toys,,credit card
+371898,David,09454164624,,Miami,2023-09-02,Home & Kitchen,,cash
+908524,Frank,09456511109,,Los Angeles,2023-02-20,Electronics,,debit card
+399333,Grace,09459887940,,Seattle,2023-01-30,Home & Kitchen,,cash
+304598,Eva,09358588555,,Seattle,2023-01-27,Toys,,cash
+874584,Charlie,09983525141,,Los Angeles,2023-09-26,Home & Kitchen,,
+811211,Charlie,09983608910,22.0,Chicago,,Electronics,41.51,
+900951,Charlie,09177657156,,Seattle,2023-11-12,Books,,paypal
+636994,Grace,09456006585,,Los Angeles,2023-02-27,Toys,,paypal
+811050,Charlie,09355773179,,Miami,2023-03-09,Books,,debit card
+840337,Alice,09450420182,34.0,Miami,2023-07-30,Electronics,,debit card
+988920,Frank,09208049496,,New York,,Books,,
+424655,David,09354911309,,,,Toys,,
+610285,Henry,09353884986,52.0,Seattle,,Clothing,,
+730173,David,09455839008,,New York,2023-12-15,Books,230.36,cash
+270127,Grace,09357850846,,San Francisco,2023-01-21,Books,,
+249587,Henry,09204121063,,Houston,2023-05-15,Books,,
+737544,Bob,09201674357,,Los Angeles,2023-09-28,Clothing,91.36,debit card
+418903,Grace,09357566843,,New York,2023-11-07,Groceries,10000.0,debit card
+610667,Grace,09174088738,,San Francisco,,Home & Kitchen,114.5,paypal
+453213,Alice,09204561965,20.0,Miami,2023-01-20,Sports,,paypal
+200809,Grace,09208887216,,New York,2023-04-08,Sports,,
+650673,Grace,09208129940,,New York,2023-09-29,Home & Kitchen,,paypal
+585105,Henry,09351144776,,San Francisco,2023-02-24,Books,,debit card
+788804,Charlie,09356320962,43.0,Miami,2023-11-04,Clothing,,debit card
+909654,Charlie,09178962196,,Seattle,2023-05-31,Groceries,10000.0,credit card 
+823261,David,09171528467,56.0,Los Angeles,,Toys,,paypal
+187735,Eva,09175575960,,Houston,,Electronics,,credit card 
+832467,Bob,09454425422,,Miami,2023-06-22,Sports,140.16,debit card
+559495,Eva,09209509607,,San Francisco,2023-06-15,Groceries,17.11,cash
+427113,Frank,09352128519,,Houston,2023-10-21,Clothing,,debit card
+543175,Grace,09178841002,45.0,Los Angeles,2023-07-01,Sports,,debit card
+818478,Frank,09208027658,,Chicago,2023-08-19,Books,,paypal
+894825,Charlie,09351609536,26.0,Miami,2023-11-23,Home & Kitchen,,debit card
+892498,Frank,09175847799,,Houston,2023-01-09,Books,10000.0,debit card
+511181,Frank,09458302286,,Seattle,2023-11-23,Books,,credit card
+827783,Charlie,09206860363,,Los Angeles,2023-04-19,Electronics,,
+758897,Alice,09207243381,,Houston,2023-09-25,Electronics,,paypal
+311888,David,09177003800,,,2023-12-24,Home & Kitchen,,cash
+992530,Frank,09982181824,,Seattle,2023-11-04,Clothing,,
+653596,Eva,09208293440,,San Francisco,2023-03-15,Home & Kitchen,,cash
+265992,Grace,09359108690,,Chicago,,Home & Kitchen,,paypal
+381360,Charlie,09980934998,,Houston,2023-09-04,Sports,,cash
+430863,Alice,09202332555,,Houston,2023-12-30,Home & Kitchen,,credit card 
+747102,Henry,09355062489,,Miami,2023-08-29,Groceries,,cash
+893048,Alice,09170734084,,Chicago,2023-04-11,Sports,,paypal
+978549,Eva,09178967581,,Los Angeles,2023-05-27,Electronics,,paypal
+707132,Alice,09206749451,43.0,New York,2023-10-10,Books,,
+109304,Eva,09209128327,,Chicago,,Toys,10000.0,paypal
+137659,Bob,09450510895,,New York,2023-05-19,Electronics,10000.0,paypal
+479351,Charlie,09209766740,,Miami,,Groceries,,credit card 
+135911,Henry,09354918620,32.0,Miami,2023-11-07,Toys,336.58,credit card
+987717,Grace,09984662401,,Miami,2023-09-09,Electronics,243.83,credit card
+793688,Bob,09177263597,,Miami,2023-11-10,Books,,debit card
+149613,Frank,09456428247,,Seattle,2023-12-17,Groceries,,credit card 
+848834,Alice,09454130597,83.0,Los Angeles,2023-01-29,Books,,paypal
+561463,Bob,09173502228,,Seattle,2023-04-05,Home & Kitchen,10000.0,cash
+218845,Charlie,09205554612,,,2023-02-17,Books,,credit card
+350502,Charlie,09458872438,,Houston,2023-06-05,Groceries,10000.0,paypal
+130136,Alice,09356510882,,,2023-10-22,Clothing,10000.0,credit card
+837673,Eva,09353185167,77.0,Seattle,,Sports,,debit card
+182930,David,09177106140,,,2023-01-16,Home & Kitchen,,cash
+438377,Charlie,09202259895,,Los Angeles,2023-11-16,Groceries,,debit card
+363858,Frank,09983046301,,Miami,2023-12-14,Books,10000.0,debit card
+903353,Grace,09176339625,,New York,2023-05-22,Electronics,,debit card
+531723,Frank,09353543277,,New York,2023-10-13,Electronics,,paypal
+639625,Alice,09457778567,33.0,Seattle,2023-12-09,Electronics,,paypal
+429347,Bob,09453741566,,Chicago,2023-07-07,Sports,50.01,paypal
+353147,Henry,09209927158,,Chicago,2023-11-02,Home & Kitchen,,credit card 
+257383,Eva,09988809366,,,,Groceries,,paypal
+449156,Alice,09451681979,,San Francisco,2023-01-05,Clothing,,credit card
+622748,Grace,09454969158,,Seattle,2023-11-20,Home & Kitchen,,debit card
+394292,Frank,09177010426,,Houston,2023-11-10,Toys,,debit card
+717905,Grace,09452404103,,Seattle,2023-05-10,Electronics,,cash
+264162,Alice,09350483983,,Miami,2023-05-23,Home & Kitchen,10000.0,credit card
+346734,Grace,09208283420,,San Francisco,2023-12-25,Home & Kitchen,,
+658056,Eva,09172257293,,Houston,,Sports,,cash
+546474,Bob,09358431022,,Los Angeles,2023-06-17,Clothing,,paypal
+961076,David,09354987894,,Houston,,Electronics,,credit card
+126886,Eva,09359330204,,New York,,Home & Kitchen,10000.0,debit card
+171118,Henry,09208746928,86.0,,2023-05-24,Toys,,debit card
+896241,Bob,09208742220,,San Francisco,2023-02-23,Groceries,,paypal
+275092,Grace,09451168636,,Miami,,Toys,10000.0,cash
+812240,Alice,09174780466,,New York,2023-04-02,Home & Kitchen,294.93,credit card
+161115,Alice,09351607932,53.0,Chicago,,Books,,paypal
+273956,Charlie,09179761461,58.0,New York,2023-10-08,Groceries,,debit card
+775259,David,09206442924,,Chicago,2024-01-01,Electronics,,paypal
+458394,Henry,09450151836,,Houston,2023-03-24,Groceries,10000.0,
+539951,Eva,09988941020,,Houston,,Sports,10000.0,debit card
+945137,Grace,09457795038,,Houston,2023-08-25,Toys,,debit card
+939943,David,09200700865,,Houston,2023-11-30,Toys,,credit card
+811750,Eva,09208438644,66.0,Los Angeles,,Toys,10000.0,credit card
+732808,Charlie,09982331224,80.0,San Francisco,2023-09-06,Books,10000.0,cash
+248610,Alice,09353695225,,Los Angeles,2023-12-11,Clothing,,paypal
+447195,Henry,09203490889,,San Francisco,,Electronics,,cash
+496713,Charlie,09201247581,,Miami,,Books,,credit card
+786081,Alice,09982363005,,Seattle,2023-08-14,Electronics,,cash
+188593,Eva,09171070427,,Miami,,Books,,paypal
+865956,Grace,09458986525,,,2023-08-21,Home & Kitchen,374.51,credit card 
+622221,Bob,09452662149,,Houston,,Books,,credit card 
+623234,Charlie,09982416674,74.0,Seattle,2023-10-23,Clothing,329.86,paypal
+925937,David,09176340636,,Los Angeles,2023-07-15,Groceries,,credit card 
+949776,David,09457060689,,Los Angeles,2023-01-26,Toys,217.63,paypal
+416893,Alice,09987900930,,Seattle,2023-12-28,Books,274.14,cash
+749645,Alice,09172006812,,San Francisco,,Toys,,credit card
+475973,Grace,09177497171,29.0,New York,2023-08-27,Groceries,,paypal
+784722,Eva,09201782533,,Chicago,2023-06-07,Electronics,,cash
+957703,David,09986252158,,Seattle,2023-12-20,Clothing,,cash
+979152,Henry,09208125039,,Seattle,,Electronics,,credit card 
+473042,Alice,09980501870,81.0,San Francisco,2023-07-09,Books,10000.0,cash
+183494,Grace,09988289111,,Miami,2023-02-10,Electronics,309.2,paypal
+979385,Bob,09201316485,,Chicago,2023-04-29,Home & Kitchen,,cash
+650728,David,09202741417,,Chicago,2023-01-26,Home & Kitchen,377.02,cash
+397422,Bob,09357347319,,Chicago,2023-01-17,Groceries,,
+756252,Alice,09208875342,,San Francisco,,Electronics,10000.0,credit card
+448871,Frank,09207097821,,Chicago,2023-12-21,Books,164.97,cash
+377971,Alice,09983479020,,Los Angeles,2023-09-25,Books,10000.0,paypal
+796015,Bob,09205705043,,Los Angeles,2023-10-05,Groceries,,debit card
+550876,Frank,09173037263,89.0,Houston,2023-08-13,Electronics,10000.0,paypal
+332398,Bob,09988515559,,New York,2023-07-26,Groceries,,debit card
+831339,Grace,09980396326,,Chicago,2023-09-04,Toys,,credit card 
+577105,Eva,09179469844,,New York,2023-01-06,Groceries,,cash
+518314,Bob,09179867157,,New York,2023-02-06,Electronics,331.25,
+208642,Eva,09457440777,,Miami,2023-10-31,Home & Kitchen,,paypal
+211663,Frank,09356457657,,San Francisco,2023-03-12,Toys,,paypal
+930859,Eva,09202177331,,San Francisco,2023-03-02,Sports,,credit card 
+599336,Henry,09352636453,,San Francisco,,Sports,,credit card
+873497,Charlie,09987001715,,San Francisco,2023-05-01,Home & Kitchen,,credit card
+509364,Henry,09204738020,,Chicago,,Clothing,,debit card
+408292,Henry,09459420157,59.0,Los Angeles,2023-04-02,Books,206.0,debit card
+965226,Charlie,09359068495,,Los Angeles,,Sports,,paypal
+612323,Frank,09358691732,,Seattle,2023-12-13,Clothing,,cash
+875012,Henry,09988823856,,Miami,2023-11-25,Electronics,,
+661934,Grace,09457893020,,Chicago,2023-07-30,Clothing,,
+318412,Alice,09986488319,,,,Home & Kitchen,,debit card
+918861,Charlie,09459579936,,Chicago,2023-03-10,Toys,126.36,cash
+274818,Frank,09179880238,,Seattle,2023-04-10,Toys,,debit card
+109502,Alice,09200090780,68.0,Seattle,2023-04-27,Electronics,,credit card 
+580460,Frank,09459209147,,Seattle,2023-07-06,Toys,,cash
+861564,David,09354149659,,Los Angeles,2023-01-16,Home & Kitchen,,paypal
+230255,Alice,09988256108,,Seattle,,Home & Kitchen,10000.0,cash
+113764,Henry,09201110991,,Chicago,2023-12-11,Home & Kitchen,449.58,paypal
+227035,Alice,09455766998,90.0,Houston,2023-06-17,Sports,473.91,
+523824,Alice,09200498819,,Seattle,2023-05-16,Groceries,,paypal
+340764,Alice,09451640045,,Houston,2023-08-31,Electronics,,debit card
+349104,Charlie,09982757101,,Houston,2023-02-01,Sports,,credit card
+977119,Henry,09178444789,,Los Angeles,2023-12-29,Sports,,credit card 
+335020,Charlie,09202565068,,San Francisco,2023-04-06,Toys,,debit card
+923052,David,09171509048,,Chicago,2023-03-06,Sports,,credit card
+120284,David,09170251062,,Seattle,2023-01-12,Sports,,paypal
+553384,Frank,09358720616,,Houston,2023-04-10,Sports,10000.0,debit card
+497390,Charlie,09208712175,,Los Angeles,2023-02-06,Home & Kitchen,,cash
+823016,Alice,09200914523,,Chicago,2023-07-30,Toys,,paypal
+919213,Henry,09178268726,87.0,New York,2023-09-12,Books,,credit card 
+286241,Bob,09454768535,,San Francisco,2023-12-28,Books,,debit card
+892343,Grace,09207759153,,San Francisco,,Electronics,,paypal
+392523,Eva,09208930845,,Chicago,,Home & Kitchen,,paypal
+260462,Bob,09983043613,34.0,New York,2023-01-09,Clothing,,paypal
+234905,Henry,09171525610,,,2023-08-14,Sports,,paypal
+113482,Henry,09457814313,,New York,2023-03-26,Toys,10000.0,paypal
+902738,David,09987218024,59.0,Los Angeles,2023-02-01,Toys,176.05,paypal
+664317,Charlie,09459388752,,Miami,2023-11-07,Electronics,,credit card
+800984,Grace,09173991193,84.0,Seattle,2023-11-16,Groceries,400.55,cash
+171372,Bob,09200503694,,Miami,,Clothing,,paypal
+427081,Eva,09988463784,,Chicago,2023-09-23,Books,,cash
+213325,Bob,09353984598,,Los Angeles,2023-10-29,Clothing,,credit card
+720054,Bob,09354632348,,New York,2023-05-28,Clothing,,cash
+744577,Grace,09359503951,,Chicago,2023-10-23,Books,,cash
+336196,Charlie,09209298106,,Miami,2023-02-06,Groceries,,paypal
+562394,Grace,09176304882,,San Francisco,2023-05-28,Electronics,,cash
+265461,Alice,09172265482,,Chicago,,Clothing,,credit card
+329356,Frank,09988143505,,New York,2023-03-08,Clothing,,credit card 
+330970,Henry,09989730046,,San Francisco,2023-12-31,Sports,,credit card
+785508,Eva,09450389477,89.0,Los Angeles,2023-11-08,Groceries,10000.0,credit card
+433942,Henry,09204454784,30.0,Houston,2023-07-26,Sports,,credit card
+817813,Charlie,09354491643,,Los Angeles,2023-06-11,Electronics,,
+762023,Eva,09356098077,82.0,New York,2023-10-12,Groceries,10000.0,
+557171,Grace,09454784588,,,,Electronics,,debit card
+987706,Henry,09981186114,38.0,Seattle,,Groceries,10000.0,debit card
+864794,Alice,09178675537,,Seattle,2023-03-01,Toys,,
+939089,Bob,09201627593,,Houston,,Toys,10000.0,
+481832,Eva,09981814544,,Houston,,Books,,cash
+765365,Bob,09453153798,38.0,San Francisco,2023-06-06,Books,301.78,paypal
+795107,Eva,09172187040,,Houston,2023-03-26,Groceries,59.82,credit card 
+798583,Henry,09209153361,,New York,2023-08-01,Home & Kitchen,,
+821589,Charlie,09983273081,,New York,2023-04-20,Home & Kitchen,,paypal
+835451,Bob,09350434792,,Los Angeles,,Home & Kitchen,,paypal
+961859,Frank,09179079820,,Seattle,2023-11-06,Books,401.09,paypal
+777228,Henry,09201803370,,Houston,2023-06-07,Books,10000.0,paypal
+802166,Alice,09459833710,,Chicago,2023-07-08,Electronics,,
+735192,Alice,09986585027,52.0,Seattle,,Sports,,debit card
+760997,Eva,09359804164,,Seattle,2023-09-09,Toys,,paypal
+914484,Grace,09358782777,,Miami,2023-05-29,Electronics,,paypal
+366102,Charlie,09357047464,,Chicago,2023-04-12,Groceries,10000.0,
+623897,Frank,09200254053,,Seattle,2023-06-30,Books,,cash
+975389,Grace,09988537171,,Chicago,2023-08-01,Electronics,,paypal
+266385,Bob,09355812801,,Houston,,Electronics,,cash
+399035,Eva,09178163312,53.0,Los Angeles,2023-07-06,Sports,,debit card
+874888,Bob,09980233516,,San Francisco,,Sports,,paypal
+845599,Bob,09456017261,,San Francisco,2023-11-30,Electronics,,
+854265,Charlie,09984936570,,Seattle,2023-07-30,Toys,10000.0,cash
+350883,Charlie,09203420021,,New York,2023-04-09,Toys,,cash
+226901,Frank,09201488445,,Houston,2023-08-07,Electronics,183.73,credit card
+764905,Frank,09356858979,,Miami,2023-04-10,Electronics,10000.0,
+959120,David,09456210356,,Los Angeles,2023-02-01,Toys,,cash
+891421,Alice,09354580540,,San Francisco,2023-07-30,Books,,credit card
+291866,David,09209594383,,Los Angeles,2023-04-05,Electronics,,paypal
+710485,David,09456284624,,Chicago,2023-07-24,Groceries,10000.0,credit card
+814997,Bob,09451153710,,San Francisco,2023-08-13,Electronics,,paypal
+383096,David,09178466156,,,2024-01-01,Electronics,,paypal
+221289,Henry,09207815215,,Houston,2023-07-22,Clothing,,credit card
+843512,David,09175742378,36.0,Miami,,Groceries,10000.0,paypal
+315784,Bob,09986786613,,Houston,2023-12-19,Groceries,,credit card 
+700983,David,09359912589,,Miami,2023-11-19,Groceries,,cash
+308567,Grace,09204418451,,Houston,2023-03-06,Books,,credit card
+387568,David,09980057088,,Miami,2023-12-06,Toys,,
+632906,Frank,09205548618,,Seattle,2023-09-17,Groceries,,debit card
+688996,Charlie,09352441878,,Los Angeles,2023-02-07,Clothing,10000.0,debit card
+596743,Frank,09202999431,72.0,Los Angeles,,Books,,cash
+816384,Charlie,09351387559,,Miami,2023-02-15,Toys,,credit card 
+546933,Charlie,09981087052,,Los Angeles,,Home & Kitchen,,cash
+375388,Henry,09207133784,,,2024-01-01,Clothing,,credit card
+295507,Eva,09981357139,,Los Angeles,2023-11-17,Groceries,,paypal
+968158,David,09352474168,,Miami,,Clothing,,credit card 
+776411,David,09355333193,,Chicago,2023-06-08,Sports,,debit card
+836447,Frank,09204840033,58.0,Miami,2023-06-02,Sports,10000.0,cash
+336682,Eva,09170237567,,Los Angeles,2023-08-31,Groceries,,credit card 
+708350,Frank,09354424826,,Houston,2023-08-16,Sports,,paypal
+431740,Frank,09203320668,,Chicago,,Groceries,10000.0,paypal
+437190,Bob,09356437798,,Miami,,Sports,,debit card
+736318,Bob,09207393452,,San Francisco,2023-08-14,Sports,10000.0,debit card
+551546,Charlie,09201560349,,San Francisco,2023-07-06,Toys,10000.0,debit card
+160213,Henry,09206934159,46.0,Los Angeles,2023-06-07,Electronics,,
+607546,Frank,09171152654,,Seattle,2023-03-09,Toys,10000.0,debit card
+784384,Frank,09351608227,,Miami,2023-09-13,Home & Kitchen,,debit card
+398191,Alice,09358188208,,Los Angeles,2023-11-26,Home & Kitchen,10000.0,debit card
+283866,Charlie,09359035448,45.0,San Francisco,2023-10-15,Electronics,,debit card
+723340,Frank,09358133648,,,2023-07-09,Home & Kitchen,10000.0,paypal
+911125,Bob,09209761536,,,2023-01-23,Electronics,,
+506542,Charlie,09357350649,25.0,Miami,2023-05-03,Sports,,cash
+462749,Eva,09356476199,,Chicago,2023-05-28,Books,,debit card
+692936,David,09980433987,,Seattle,2023-08-11,Books,406.84,
+288604,Bob,09205479386,,Houston,2023-06-22,Clothing,,credit card 
+103144,Eva,09988507572,,Seattle,2023-09-06,Home & Kitchen,188.98,cash
+320001,Frank,09982189129,87.0,Los Angeles,2023-07-15,Books,288.78,paypal
+809024,Eva,09201998871,,,2023-12-15,Books,205.12,debit card
+101670,Eva,09209095299,,Houston,,Sports,,cash
+208111,Alice,09170413314,,San Francisco,2023-04-18,Toys,,credit card
+204800,Eva,09988628396,,Los Angeles,2023-03-01,Clothing,,cash
+752353,Henry,09981474994,,Houston,2023-03-08,Toys,,
+840478,Bob,09358790271,,Los Angeles,2023-02-28,Groceries,,debit card
+118443,Charlie,09452506123,,San Francisco,,Sports,414.71,cash
+807321,Bob,09353453824,,,2023-03-25,Electronics,44.28,credit card 
+940226,Frank,09982127863,,San Francisco,2023-03-08,Electronics,,debit card
+172598,Henry,09176488224,38.0,Seattle,,Toys,,debit card
+856182,Henry,09359747112,,Houston,2023-06-16,Home & Kitchen,,credit card 
+584136,Charlie,09172207770,,Chicago,2023-07-06,Clothing,,paypal
+947013,Charlie,09983390896,,Houston,2023-10-11,Toys,,paypal
+615523,Alice,09206063459,,Seattle,2023-05-07,Books,,cash
+303698,Charlie,09179694649,,Seattle,2023-02-15,Electronics,,credit card
+860659,Frank,09177484088,,Seattle,2023-01-19,Sports,,debit card
+804949,Grace,09172421530,40.0,San Francisco,,Groceries,,paypal
+929672,Grace,09987774892,,Chicago,,Electronics,368.69,debit card
+714777,Grace,09204953354,,San Francisco,2023-03-19,Toys,10000.0,credit card 
+712207,Alice,09209244244,,Los Angeles,2023-02-24,Toys,339.73,debit card
+529219,Alice,09451478763,,Chicago,,Clothing,,paypal
+612512,David,09176054701,,Houston,2023-02-23,Groceries,,credit card
+866014,Frank,09172572556,,Miami,2023-02-07,Clothing,,debit card
+846102,Henry,09980161868,71.0,,2023-02-22,Toys,,cash
+599484,Bob,09983020131,29.0,San Francisco,2023-04-11,Groceries,,credit card 
+700519,Grace,09454690878,,Los Angeles,2023-12-08,Clothing,10000.0,debit card
+818151,Alice,09202798212,81.0,Miami,,Home & Kitchen,10000.0,cash
+856302,Bob,09454320273,,Seattle,2023-11-15,Toys,,paypal
+167816,David,09456022275,63.0,Houston,2023-09-21,Groceries,,debit card
+741481,Frank,09981411207,,Miami,2023-09-03,Toys,259.34,debit card
+272813,Grace,09982216199,,Chicago,,Electronics,,credit card
+657059,Bob,09450496247,,Los Angeles,2023-02-26,Home & Kitchen,,debit card
+975855,Grace,09355218894,,Miami,,Electronics,,cash
+920246,Grace,09209879684,,Los Angeles,2023-05-28,Toys,10000.0,debit card
+886942,Eva,09451436742,,New York,2023-08-08,Toys,448.7,debit card
+528864,Alice,09983730850,50.0,Miami,2023-06-22,Home & Kitchen,,credit card 
+359686,David,09205516144,84.0,New York,,Electronics,10000.0,cash
+738763,Bob,09450760501,,Miami,2023-05-05,Home & Kitchen,490.32,
+689498,Henry,09355324551,60.0,Seattle,2023-08-06,Groceries,,credit card 
+154922,David,09208424622,,Los Angeles,2023-12-15,Groceries,,
+235922,Frank,09358183499,,Chicago,,Electronics,,debit card
+625508,Eva,09455740639,,Houston,,Home & Kitchen,,credit card 
+403000,Grace,09451527193,,Miami,,Electronics,,paypal
+957180,Eva,09450343041,,Houston,2023-04-28,Sports,,paypal
+883096,David,09452787824,76.0,New York,,Sports,10000.0,paypal
+307376,Bob,09352117371,,Seattle,2023-11-17,Groceries,297.15,paypal
+291490,Charlie,09201293825,,Houston,2023-03-22,Home & Kitchen,10000.0,
+722100,David,09989743474,,Chicago,2023-03-05,Groceries,10000.0,debit card
+487155,David,09202215271,,Miami,2023-04-06,Home & Kitchen,,credit card
+414866,Bob,09206183614,,Seattle,2023-02-18,Toys,,paypal
+837144,Charlie,09206101683,,Houston,,Sports,192.46,credit card
+896480,Henry,09983057181,,Miami,2023-10-16,Home & Kitchen,,paypal
+229795,Charlie,09359138752,,New York,2023-03-09,Sports,,credit card
+120899,Grace,09357848248,,Houston,2023-05-06,Sports,,
+198188,Charlie,09200487150,74.0,New York,2023-03-27,Sports,,debit card
+335540,Grace,09354443967,,Houston,2023-03-13,Electronics,,credit card
+895368,Charlie,09356758720,,Miami,,Books,,
+624150,Henry,09173315538,,Miami,2023-08-06,Books,,paypal
+298060,Alice,09172424354,88.0,Miami,2023-02-11,Toys,,paypal
+545281,Eva,09201014938,83.0,San Francisco,2023-03-08,Toys,216.23,paypal
+771212,David,09172808865,,San Francisco,2023-05-01,Home & Kitchen,,paypal
+607883,Eva,09203030795,,,2023-10-06,Electronics,,credit card
+493822,Alice,09205485482,,New York,2023-08-14,Groceries,,paypal
+387203,Henry,09458695166,,San Francisco,,Groceries,,paypal
+545329,Bob,09981812953,,Houston,2023-07-11,Home & Kitchen,,
+803077,Charlie,09205382338,45.0,New York,2023-04-25,Toys,10000.0,paypal
+294880,Eva,09205171880,,Seattle,2023-04-11,Clothing,478.78,cash
+488994,Alice,09201385724,,,2023-07-04,Home & Kitchen,,cash
+398860,David,09454566809,,San Francisco,2023-04-10,Toys,,credit card 
+191972,Eva,09350938097,,Los Angeles,2023-08-08,Toys,,
+382017,Grace,09356503589,,New York,2023-10-03,Electronics,,paypal
+568314,Henry,09174735141,,Seattle,2023-01-31,Electronics,,cash
+903637,Bob,09450729261,,Seattle,2023-11-15,Toys,,
+698548,Eva,09207733007,,Houston,2023-07-25,Electronics,10000.0,cash
+506595,David,09985833794,,,2023-07-17,Toys,,paypal
+212766,Henry,09202479397,,Houston,,Electronics,,credit card 
+670561,David,09350077636,,Los Angeles,2023-12-10,Sports,,credit card 
+584023,Alice,09458437974,,San Francisco,,Clothing,,credit card
+150839,Eva,09177523717,,Chicago,2023-03-12,Toys,21.57,debit card
+507090,Frank,09981032680,61.0,San Francisco,2023-02-07,Electronics,,credit card
+289325,Alice,09205000933,,Seattle,,Clothing,417.84,debit card
+395194,Henry,09986450775,,Chicago,2023-02-01,Home & Kitchen,128.86,debit card
+733906,David,09982882006,,,2023-04-10,Clothing,,paypal
+161298,Bob,09457376796,,,,Home & Kitchen,,
+180128,Henry,09359276779,,Chicago,2023-06-05,Sports,,credit card 
+696807,Henry,09453563887,,Miami,2023-07-09,Sports,384.23,debit card
+759764,Henry,09177566681,,Seattle,2023-03-31,Home & Kitchen,,credit card 
+498900,Eva,09179291411,37.0,New York,2023-11-07,Clothing,,debit card
+812092,David,09459897288,,San Francisco,2023-12-21,Home & Kitchen,,cash
+723536,Frank,09456106292,37.0,Miami,2023-05-06,Toys,,credit card
+431335,Grace,09356561974,,San Francisco,2023-06-22,Sports,,debit card
+454229,Alice,09982694156,,Seattle,2023-07-02,Sports,,debit card
+803036,Frank,09178733006,,Los Angeles,2023-08-29,Toys,,paypal
+714141,Grace,09352916390,,Chicago,2023-01-12,Books,,credit card 
+312967,David,09209667302,,Miami,2023-04-01,Home & Kitchen,,cash
+981723,Bob,09351305723,,Seattle,2023-06-04,Books,22.62,credit card 
+950608,Frank,09179336779,,Houston,2023-06-25,Groceries,388.29,debit card
+412097,Bob,09984648686,,Chicago,2023-07-08,Electronics,,debit card
+897726,Henry,09459852904,,Los Angeles,,Groceries,,paypal
+892688,David,09982021780,,Houston,2023-10-21,Groceries,,credit card 
+718885,Bob,09453248643,,Los Angeles,2023-10-18,Books,,
+851304,Henry,09358617939,,Houston,2023-09-07,Sports,,cash
+473873,Grace,09357446852,,Seattle,2023-02-16,Sports,492.0,cash
+371797,Bob,09202607608,,Chicago,2023-02-22,Groceries,,paypal
+259691,Henry,09170590304,84.0,Miami,2023-12-16,Electronics,,cash
+639156,David,09175076383,,Houston,2023-02-27,Toys,10000.0,cash
+538252,Grace,09355745241,,Los Angeles,2023-04-30,Toys,,credit card
+854377,Bob,09458753013,,San Francisco,2023-03-06,Books,,
+590738,Frank,09200203922,,Houston,,Books,,credit card 
+984229,Grace,09454459706,,Los Angeles,2023-11-16,Books,,paypal
+478684,Alice,09179348009,,,,Sports,,debit card
+704270,Frank,09981106475,,Chicago,2023-01-11,Toys,,cash
+452959,David,09176444375,,New York,2023-07-29,Books,,cash
+681217,Grace,09981294652,,Chicago,2023-11-24,Groceries,10000.0,cash
+353755,Bob,09179399306,,Miami,2023-04-04,Books,,credit card 
+414564,Grace,09171830572,,,,Sports,348.6,credit card
+446513,Alice,09359092619,,Miami,2023-05-31,Home & Kitchen,,credit card 
+342330,Eva,09203925875,68.0,Houston,2023-11-09,Sports,,
+497060,David,09458808694,46.0,Houston,2023-06-22,Home & Kitchen,,cash
+939530,Charlie,09456955891,,Miami,2023-05-13,Toys,,paypal
+662119,Alice,09174680285,,Los Angeles,2023-09-18,Sports,,cash
+503774,Alice,09352688085,,Los Angeles,2023-05-19,Home & Kitchen,288.84,debit card
+339204,Eva,09207770905,,San Francisco,2023-05-03,Home & Kitchen,,debit card
+104334,Frank,09200319549,,Los Angeles,2023-03-01,Sports,,debit card
+658418,Alice,09357814769,,Houston,2023-12-26,Electronics,,credit card 
+712908,Henry,09981810012,,Los Angeles,2023-06-24,Groceries,203.24,credit card 
+743492,Grace,09203636386,,New York,2023-05-25,Home & Kitchen,,cash
+873992,Grace,09456005556,,Los Angeles,2023-03-21,Books,10000.0,
+475489,David,09357563541,45.0,Chicago,,Books,,credit card
+715438,Alice,09980991119,78.0,Miami,2023-10-19,Sports,10000.0,debit card
+787633,Alice,09352980322,,San Francisco,2023-03-22,Toys,,paypal
+571892,Bob,09178539224,28.0,New York,,Home & Kitchen,,credit card 
+587649,Bob,09172785715,,,2023-09-12,Electronics,,credit card 
+947840,Charlie,09981629810,,New York,2023-06-13,Toys,471.41,cash
+981747,Grace,09458932061,,Los Angeles,2023-01-31,Toys,409.87,credit card 
+527992,Bob,09455896120,,Seattle,2023-11-12,Groceries,,cash
+481279,Bob,09457959574,,New York,2023-01-18,Groceries,,cash
+167759,Alice,09205667547,44.0,Miami,2023-07-05,Books,,cash
+239022,Alice,09173961700,,New York,2023-01-02,Toys,,credit card
+343197,Grace,09458936467,,Houston,2023-06-02,Toys,10000.0,credit card 
+255496,Alice,09357007103,,San Francisco,2023-08-06,Home & Kitchen,,debit card
+841303,Charlie,09459864351,,Los Angeles,,Sports,,debit card
+275384,Frank,09200990583,,Houston,2023-05-22,Clothing,10000.0,cash
+507342,Eva,09451516625,65.0,Miami,2023-10-18,Home & Kitchen,,paypal
+789218,Bob,09457209937,,San Francisco,2023-07-21,Clothing,,debit card
+306261,Eva,09202114618,,Houston,2023-11-07,Books,,paypal
+490139,Grace,09171207231,,New York,2023-11-14,Electronics,,credit card
+114615,Henry,09352117851,,Chicago,2023-12-20,Clothing,242.62,credit card
+508196,Bob,09353305988,,Houston,2023-01-05,Clothing,,paypal
+800540,Charlie,09171885049,,Houston,2023-07-14,Groceries,,cash
+684008,Henry,09207606850,,Los Angeles,2023-07-12,Clothing,,
+989907,Henry,09983812892,,Los Angeles,2023-06-21,Home & Kitchen,,credit card
+841209,Charlie,09456830460,,Los Angeles,2023-08-07,Books,,cash
+108329,Bob,09981505870,,Miami,2023-03-30,Home & Kitchen,,paypal
+950299,Alice,09983654030,,Houston,2023-06-22,Electronics,,debit card
+950141,Grace,09203987476,,New York,2023-09-20,Electronics,,paypal
+454937,Frank,09359516284,,San Francisco,2023-09-03,Clothing,,cash
+359933,Frank,09175029756,,Chicago,2023-08-07,Electronics,,cash
+436369,David,09354705492,,Seattle,2023-06-05,Clothing,,cash
+790250,Alice,09983336418,,Los Angeles,2023-07-14,Toys,,credit card 
+662828,Frank,09451903257,,,2023-12-14,Toys,,paypal
+560142,Eva,09459424356,,Los Angeles,2023-12-06,Books,,credit card
+292123,Alice,09359201475,,Seattle,2023-11-17,Electronics,10000.0,debit card
+490937,Henry,09989064744,,San Francisco,2023-03-13,Home & Kitchen,,cash
+247151,David,09451297389,,Seattle,,Books,10000.0,paypal
+618670,David,09452948366,,Houston,2023-12-15,Toys,143.21,credit card 
+176878,Bob,09205951256,,Seattle,2023-01-22,Clothing,,credit card 
+367407,Grace,09986902140,,San Francisco,,Sports,,debit card
+816339,Henry,09455183982,,San Francisco,2023-03-22,Home & Kitchen,10000.0,paypal
+895458,Alice,09456278885,81.0,Houston,2023-05-01,Home & Kitchen,,paypal
+737735,Alice,09206404419,,Chicago,,Home & Kitchen,,cash
+488854,David,09353211655,,Miami,2023-02-26,Sports,277.21,debit card
+956653,Bob,09985742808,,Seattle,2023-05-10,Home & Kitchen,,paypal
+216042,Charlie,09981995670,,Houston,2023-10-23,Groceries,,cash
+712745,Bob,09201199331,80.0,Seattle,2023-03-22,Toys,,paypal
+406680,Grace,09202552149,,New York,2023-11-30,Sports,,credit card
+617462,Eva,09455976974,,Chicago,2023-01-06,Clothing,10000.0,paypal
+257377,Bob,09987048297,,Los Angeles,2023-06-05,Toys,10000.0,paypal
+947857,David,09179801463,,,2023-05-29,Books,140.73,credit card
+485307,David,09174206951,,Seattle,2023-10-06,Clothing,10000.0,paypal
+411331,Alice,09452971747,,Los Angeles,2023-01-17,Groceries,,cash
+474447,Bob,09359002396,25.0,,2023-03-01,Groceries,10000.0,paypal
+816698,Bob,09458268458,,San Francisco,2023-12-04,Electronics,,cash
+878927,Henry,09206052664,,Chicago,2023-11-22,Sports,10000.0,credit card
+135717,Charlie,09453713313,66.0,Los Angeles,2023-02-20,Electronics,266.74,paypal
+371374,Charlie,09179729097,,Miami,2023-05-08,Home & Kitchen,,credit card
+162910,Frank,09353685702,,Houston,2023-07-11,Clothing,,
+284342,Henry,09175005423,18.0,Los Angeles,2023-02-23,Sports,,credit card 
+491993,Henry,09206974651,,,2023-04-20,Home & Kitchen,,cash
+877535,Henry,09173375880,,Miami,2023-10-03,Groceries,,cash
+484697,Frank,09453787910,,Chicago,2023-11-05,Home & Kitchen,,debit card
+191629,Bob,09203441022,,San Francisco,2023-10-16,Toys,,debit card
+798596,Alice,09172664863,87.0,New York,2023-05-05,Books,24.89,credit card
+988280,Eva,09983677989,,Los Angeles,2023-06-21,Toys,484.11,debit card
+324289,David,09205685667,,Houston,2023-12-29,Groceries,,debit card
+340972,Charlie,09203254243,,New York,2023-01-07,Groceries,,paypal
+107016,Charlie,09456156900,,Miami,2023-04-30,Books,10000.0,paypal
+268755,Frank,09208534784,,New York,2023-08-29,Sports,,credit card 
+777947,Alice,09353020132,,,2023-02-18,Home & Kitchen,,cash
+193101,Bob,09980192205,,Miami,,Sports,,cash
+833868,Bob,09983910538,,Seattle,2023-02-07,Home & Kitchen,10000.0,paypal
+883684,Bob,09358769799,,Houston,,Home & Kitchen,,paypal
+488893,Grace,09455208721,,Houston,,Home & Kitchen,10000.0,credit card
+995297,Henry,09170834194,,Chicago,,Home & Kitchen,10000.0,paypal
+932206,Grace,09989540131,,Chicago,2023-09-04,Electronics,10000.0,
+147199,Eva,09451693241,,Los Angeles,2023-01-28,Clothing,,debit card
+484339,Alice,09987174712,,Seattle,2023-10-06,Toys,,cash
+516835,Grace,09200129467,,Los Angeles,2023-05-21,Groceries,,paypal
+939674,Bob,09351809693,,,2023-08-16,Sports,,paypal
+518110,Bob,09455925459,,Los Angeles,,Electronics,,credit card 
+364222,Frank,09202073658,,San Francisco,2023-11-20,Home & Kitchen,10000.0,cash
+860196,Henry,09450594754,,Chicago,2023-11-02,Groceries,,cash
+828232,Frank,09981327084,,Seattle,2023-10-30,Clothing,476.24,paypal
+520380,Eva,09450541830,,Chicago,2023-06-09,Clothing,,debit card
+564482,Eva,09177413621,,Houston,2023-10-19,Home & Kitchen,17.62,cash
+704955,Grace,09172483356,80.0,San Francisco,,Electronics,,
+885853,Alice,09208778244,23.0,,2023-08-08,Groceries,,debit card
+148168,Frank,09179251578,,Chicago,,Clothing,,paypal
+930911,Charlie,09359449175,,Chicago,2024-01-01,Books,,credit card 
+889938,Bob,09174167339,,San Francisco,2023-11-20,Clothing,10000.0,cash
+757285,David,09173683865,,San Francisco,2023-02-15,Electronics,,debit card
+811502,David,09983969009,,Los Angeles,2023-11-29,Sports,10000.0,cash
+781535,Eva,09456371771,,New York,,Toys,10000.0,debit card
+638397,Bob,09982381499,,Miami,2023-01-28,Sports,,paypal
+213936,Bob,09356528908,,,2023-12-13,Home & Kitchen,,cash
+220039,Grace,09357653151,,New York,,Groceries,,paypal
+720619,Grace,09174684637,89.0,New York,2023-01-26,Home & Kitchen,,debit card
+615466,Frank,09986597553,,Los Angeles,2023-06-06,Groceries,,debit card
+917609,Alice,09171309361,,Chicago,2023-09-18,Books,10000.0,
+234785,David,09982522778,,Miami,2023-04-21,Groceries,10000.0,paypal
+842375,Alice,09208404034,,Seattle,,Clothing,23.05,paypal
+542566,Bob,09456788684,,New York,,Home & Kitchen,248.44,credit card 
+528633,Frank,09459210315,,Houston,2023-10-12,Electronics,,paypal
+156604,Frank,09209256931,,Los Angeles,2023-06-21,Groceries,,credit card
+242817,Alice,09983460098,,,,Home & Kitchen,,paypal
+169133,Henry,09352628661,77.0,Miami,2023-02-27,Home & Kitchen,,cash
+892227,Alice,09981389180,,San Francisco,2023-02-08,Books,439.88,credit card 
+735482,David,09983565994,,New York,2023-12-09,Electronics,,debit card
+745350,David,09176055662,,Miami,2023-02-04,Groceries,,
+991720,Grace,09170909919,,Seattle,2023-03-19,Toys,,debit card
+324951,Henry,09454805440,45.0,Miami,,Electronics,321.13,debit card
+582606,Henry,09453274761,39.0,Los Angeles,2023-12-01,Books,,debit card
+605560,Frank,09351182338,,New York,,Home & Kitchen,,credit card
+597432,Alice,09459425336,,Miami,2023-06-18,Clothing,76.71,cash
+621995,Eva,09177950215,,Miami,,Groceries,,paypal
+734466,Bob,09450669053,,Chicago,2023-07-20,Sports,10000.0,credit card 
+840068,Alice,09989401372,,New York,2023-02-04,Sports,,paypal
+610685,Charlie,09206426936,,,2023-06-13,Toys,,paypal
+819973,Alice,09204494760,20.0,Miami,2023-09-21,Electronics,51.82,debit card
+599066,Alice,09350866914,,New York,2023-01-16,Electronics,214.52,
+208863,Henry,09451749903,,,2023-06-24,Sports,,paypal
+854999,Henry,09457009303,,Los Angeles,2023-03-07,Toys,10000.0,cash
+358132,Charlie,09452960579,,Los Angeles,2023-10-20,Books,,debit card
+213731,Henry,09202401111,,New York,2023-12-02,Clothing,,paypal
+574788,Alice,09170759799,,Miami,2023-10-01,Books,,paypal
+559724,Alice,09982720607,,Chicago,2023-05-06,Toys,,paypal
+724659,Grace,09987648382,,Los Angeles,2023-07-11,Sports,10000.0,paypal
+460100,David,09353327541,,,,Toys,,credit card 
+789038,Alice,09352009194,,Chicago,2023-09-22,Sports,,credit card
+848634,David,09207219160,19.0,Miami,2023-10-17,Clothing,285.28,paypal
+461114,David,09176320201,,Los Angeles,2023-07-08,Electronics,,cash
+453240,Frank,09176786928,,San Francisco,,Books,,paypal
+715261,Charlie,09206038229,,New York,2023-06-22,Home & Kitchen,10000.0,debit card
+287805,Eva,09354048281,,New York,2023-07-02,Groceries,,paypal
+518235,Frank,09458458608,,Los Angeles,2023-08-17,Clothing,,cash
+348471,Alice,09354648348,,Miami,2023-08-24,Home & Kitchen,10000.0,paypal
+171888,Bob,09176595615,90.0,Seattle,2023-04-01,Sports,,debit card
+696878,Alice,09356709967,63.0,Chicago,2023-04-24,Clothing,,credit card
+908662,Bob,09459463830,,Houston,2023-06-20,Home & Kitchen,28.55,credit card
+395609,Eva,09985591559,,Seattle,2023-01-04,Sports,10000.0,cash
+384699,Grace,09178897469,,Los Angeles,2023-08-16,Books,,debit card
+255580,David,09454717558,,Houston,2023-06-15,Toys,10000.0,debit card
+853243,Henry,09203674737,61.0,San Francisco,2023-04-23,Groceries,,credit card
+849131,Grace,09170807629,,New York,2023-01-26,Clothing,74.84,credit card
+526534,Frank,09172465828,,Chicago,2023-06-21,Home & Kitchen,80.65,credit card
+268253,Frank,09176722423,,Chicago,,Clothing,,paypal
+803998,Charlie,09350041675,,Los Angeles,2023-03-27,Books,,debit card
+841962,Henry,09172106056,,New York,2023-04-02,Clothing,,cash
+326042,Bob,09985065127,,Los Angeles,,Toys,16.01,credit card 
+417260,Bob,09988530954,,Los Angeles,2023-01-28,Toys,325.9,cash
+340971,Eva,09171319376,,New York,,Groceries,,cash
+715666,Frank,09350160162,84.0,Miami,2023-01-22,Toys,,debit card
+991805,Charlie,09988962511,,Miami,2023-03-25,Home & Kitchen,,
+887041,David,09207551427,,Chicago,,Groceries,,paypal
+619477,Eva,09206566285,,Miami,2023-12-25,Toys,,cash
+262400,Eva,09452283619,47.0,New York,2023-01-27,Books,,debit card
+897920,Grace,09175697896,,Los Angeles,2023-01-10,Books,,credit card
+521885,Henry,09176422818,,Houston,2023-06-16,Clothing,,paypal
+326363,Grace,09357582161,,Miami,,Electronics,386.17,credit card 
+600972,Grace,09178372263,,Chicago,,Groceries,,credit card 
+598280,Alice,09355162654,,San Francisco,,Books,,cash
+853287,Grace,09208267412,,Chicago,,Books,10000.0,paypal
+830069,Charlie,09206044212,,Seattle,2023-03-30,Toys,,credit card 
+331944,Bob,09202104712,,,2023-10-23,Clothing,,credit card 
+228133,Alice,09204295749,,Houston,2023-09-12,Clothing,10000.0,cash
+486603,Charlie,09202636639,,Miami,,Toys,10000.0,cash
+199789,David,09350519383,,Houston,2023-09-23,Home & Kitchen,,
+774501,Frank,09450069886,,Los Angeles,2023-10-31,Books,10000.0,credit card
+628597,David,09201020940,,Chicago,2023-10-20,Home & Kitchen,,cash
+171163,David,09174577888,,San Francisco,2023-08-26,Clothing,,paypal
+393665,Grace,09172991118,,Chicago,2023-09-16,Groceries,,paypal
+822087,Henry,09984814174,,,2023-09-03,Groceries,10000.0,cash
+672727,Charlie,09358995087,,Chicago,2023-10-07,Books,,credit card
+882503,Bob,09454470666,,Seattle,2023-06-09,Toys,,paypal
+386750,Henry,09989761887,,Miami,,Books,,debit card
+327245,Charlie,09451761526,67.0,Miami,,Sports,135.8,cash
+364708,Henry,09459924065,,,2023-12-08,Sports,,debit card
+170719,Charlie,09358022675,,Miami,2023-09-12,Home & Kitchen,,credit card
+290736,Bob,09351171027,,Houston,2023-05-28,Books,,credit card 
+418790,Bob,09359338449,54.0,San Francisco,2023-11-29,Groceries,,debit card
+162367,Alice,09358647280,,New York,2023-09-14,Sports,,paypal
+512024,Bob,09176288186,35.0,Houston,,Books,,cash
+856657,David,09986942327,,Seattle,,Home & Kitchen,,credit card 
+337781,Eva,09205976179,,,2023-11-25,Clothing,,credit card 
+304637,David,09452024722,,,2023-11-07,Books,,debit card
+152822,Frank,09459848829,,Los Angeles,2023-06-01,Clothing,104.72,debit card
+842127,Eva,09359937327,,Miami,,Sports,10000.0,debit card
+111478,Bob,09203849145,,New York,2023-06-25,Groceries,,debit card
+501112,Alice,09453007414,49.0,Chicago,2023-08-08,Electronics,293.98,debit card
+843172,Frank,09354104467,,Miami,2023-01-17,Groceries,,paypal
+906690,Bob,09354995595,,San Francisco,2023-02-13,Clothing,,credit card
+335583,David,09359182177,82.0,San Francisco,,Sports,,credit card 
+518645,Bob,09452330339,,Seattle,2023-03-11,Home & Kitchen,,cash
+377507,Alice,09450939598,72.0,Houston,,Groceries,44.19,debit card
+354478,Henry,09179846656,,New York,2023-05-03,Books,10000.0,cash
+347805,Eva,09986151461,75.0,New York,2023-08-29,Clothing,,credit card
+507438,Eva,09208024834,61.0,Miami,2023-11-05,Books,,cash
+997595,David,09358233301,,Chicago,2023-01-14,Clothing,,paypal
+194039,Henry,09201670250,,Los Angeles,,Toys,400.72,debit card
+810161,Charlie,09203362330,,San Francisco,,Toys,,cash
+151200,Eva,09178033898,,Houston,,Clothing,,credit card
+919148,David,09178975805,,Houston,2023-08-26,Home & Kitchen,,paypal
+988241,Eva,09177487931,,Houston,2023-09-17,Electronics,,credit card
+903699,Frank,09175535490,,San Francisco,2023-02-23,Home & Kitchen,459.35,paypal
+195712,Frank,09172687585,,Houston,,Sports,,paypal
+367155,Charlie,09981926388,,Los Angeles,2023-12-01,Toys,,debit card
+436650,Alice,09206468454,,Miami,,Toys,,paypal
+425462,Charlie,09983573774,46.0,Chicago,2023-01-27,Toys,,credit card 
+618042,Charlie,09205431093,,San Francisco,2024-01-01,Groceries,107.24,credit card
+221502,Bob,09450611433,,New York,,Groceries,10000.0,paypal
+840470,Alice,09356780461,22.0,San Francisco,2023-10-30,Groceries,,debit card
+271206,Bob,09985850697,,Miami,,Home & Kitchen,,credit card 
+696822,Frank,09989414020,,Miami,2023-06-15,Sports,,paypal
+907800,Henry,09989352947,88.0,Chicago,,Electronics,,cash
+709022,Alice,09354718292,,,,Home & Kitchen,118.83,cash
+522718,Eva,09179811852,80.0,New York,2023-01-26,Toys,29.68,credit card 
+717168,Alice,09456918286,,Los Angeles,2023-09-16,Clothing,,debit card
+689611,Bob,09172770096,,New York,2023-05-23,Home & Kitchen,,cash
+619814,Bob,09455738660,,New York,,Books,,cash
+142311,Frank,09455900390,,New York,2023-04-08,Sports,276.74,credit card
+596409,David,09209050945,,Los Angeles,2023-12-31,Clothing,,debit card
+377464,Henry,09981225772,,San Francisco,2023-01-05,Electronics,,cash
+837353,David,09985219249,53.0,Miami,2023-12-29,Home & Kitchen,394.58,debit card
+203541,Frank,09981168128,,Los Angeles,2023-09-21,Groceries,,debit card
+811286,Charlie,09459330959,,San Francisco,2023-02-16,Books,,debit card
+176803,Eva,09173522461,,Houston,2023-06-02,Clothing,10000.0,paypal
+232602,Grace,09987887865,23.0,San Francisco,2023-08-21,Sports,,debit card
+849008,Bob,09458011999,,Miami,2023-05-28,Sports,,cash
+998362,Eva,09980930746,,,2023-02-17,Groceries,,debit card
+508332,Henry,09459982042,,Houston,2023-03-02,Sports,,credit card
+623512,Charlie,09357847439,,New York,2023-02-26,Sports,,debit card
+372850,Charlie,09172556733,,San Francisco,2023-10-12,Sports,,cash
+573001,Frank,09170484169,,Los Angeles,2023-08-04,Sports,,credit card 
+505722,Henry,09207673405,,Miami,,Sports,10000.0,cash
+364476,David,09351099821,,Chicago,2023-09-13,Sports,,credit card
+441246,Charlie,09983075746,,San Francisco,2023-02-20,Clothing,244.08,paypal
+444468,Bob,09457445205,,Los Angeles,2023-01-08,Sports,,cash
+454948,David,09207417094,,Houston,2023-05-31,Toys,442.64,paypal
+259070,Alice,09353991096,55.0,Houston,2023-10-22,Books,,
+433958,Alice,09457912397,41.0,Miami,2023-01-11,Books,,credit card
+705499,Frank,09178714057,,Los Angeles,,Electronics,,cash
+219019,David,09201895333,,Seattle,2023-04-21,Books,30.96,cash
+837393,Charlie,09459006394,,Seattle,2023-09-23,Books,,cash
+890703,Bob,09983048270,,Los Angeles,2023-01-16,Toys,,debit card
+114678,Alice,09984883924,,,2023-11-16,Toys,,paypal
+524850,David,09984673333,,San Francisco,,Home & Kitchen,10000.0,credit card 
+484332,Grace,09170689941,,Houston,2023-05-15,Electronics,10000.0,credit card 
+446277,David,09205341896,66.0,Chicago,,Toys,,paypal
+375472,Charlie,09357983199,82.0,San Francisco,,Home & Kitchen,,paypal
+847391,Alice,09174659421,,Seattle,2023-11-17,Home & Kitchen,,paypal
+311604,Grace,09359012623,,New York,2023-08-23,Clothing,348.92,paypal
+502350,Alice,09206121552,40.0,New York,,Electronics,,cash
+838977,Grace,09456527906,,Miami,2023-10-02,Electronics,,paypal
+603722,David,09358846646,73.0,San Francisco,2023-10-09,Electronics,10000.0,cash
+544230,Frank,09981344943,,Miami,2023-12-24,Clothing,10000.0,
+144897,Alice,09980766199,,Houston,2023-10-28,Home & Kitchen,,debit card
+135571,Charlie,09354420622,,Los Angeles,,Books,,cash
+124634,Alice,09172386785,,Houston,2023-06-11,Toys,,debit card
+347714,Charlie,09178453219,,New York,2023-09-27,Home & Kitchen,,debit card
+732449,Eva,09201129750,,San Francisco,2023-07-29,Toys,,
+634743,Henry,09357320896,,Houston,2023-04-06,Electronics,,debit card
+312040,Frank,09171803572,,Miami,,Home & Kitchen,10000.0,
+506127,Frank,09175979164,,New York,,Groceries,,cash
+542599,Frank,09354402981,60.0,Seattle,,Clothing,10000.0,cash
+440438,Bob,09981129837,,New York,2023-04-27,Clothing,,paypal
+541198,Alice,09176544305,,San Francisco,,Sports,331.86,credit card
+423457,Henry,09174551084,,Los Angeles,,Groceries,,paypal
+659747,Grace,09984314125,,Miami,,Books,,paypal
+790153,Frank,09208518806,,,2023-03-10,Toys,,credit card
+872860,Eva,09175440159,,Miami,2023-09-10,Books,,paypal
+407070,Henry,09459098485,,San Francisco,2023-04-05,Electronics,,cash
+606754,Charlie,09455328596,,Seattle,2023-05-24,Home & Kitchen,,cash
+350241,Alice,09170767239,,Chicago,2023-09-16,Electronics,,paypal
+883801,Eva,09358843130,,New York,2023-04-25,Clothing,52.38,paypal
+388265,Frank,09359501232,70.0,Chicago,,Books,,debit card
+677090,Eva,09458804973,,New York,,Clothing,,cash
+101419,Bob,09172706430,,Houston,2023-04-06,Home & Kitchen,,cash
+645316,Alice,09205577219,,San Francisco,,Toys,10000.0,credit card 
+432027,Henry,09980022376,,Seattle,2023-11-14,Clothing,,debit card
+522872,Grace,09458850071,,San Francisco,2023-06-27,Clothing,,debit card
+514532,Henry,09355052099,,Los Angeles,2023-01-15,Home & Kitchen,,paypal
+744366,Grace,09209040327,,San Francisco,,Books,10000.0,credit card 
+960320,Alice,09203890859,,Chicago,2023-02-11,Groceries,,
+284013,Charlie,09203312530,,Los Angeles,2023-07-07,Toys,343.18,paypal
+249589,Frank,09451704330,86.0,Houston,2023-01-22,Clothing,402.03,cash
+305708,David,09359392247,,Chicago,2023-08-07,Books,,debit card
+962470,Bob,09173285985,,Houston,2023-11-27,Books,10000.0,cash
+514849,Alice,09980245829,,New York,2023-02-27,Books,16.93,cash
+994792,Bob,09177793573,80.0,Los Angeles,2023-05-29,Sports,,
+817310,Henry,09209518751,,Los Angeles,2023-08-08,Electronics,,cash
+949216,Alice,09170466444,,New York,2023-03-14,Groceries,,credit card 
+921131,Grace,09985538344,,New York,2023-01-24,Clothing,88.71,paypal
+397041,Alice,09981834546,,,,Home & Kitchen,,cash
+208965,Henry,09173006447,64.0,Houston,2023-01-15,Groceries,,cash
+592902,David,09354831514,,San Francisco,2023-10-17,Home & Kitchen,,credit card
+330895,Charlie,09359226181,,New York,2023-11-25,Groceries,,debit card
+810967,David,09356792814,20.0,Chicago,2023-08-01,Books,,cash
+966607,Eva,09454141486,,Houston,,Toys,64.82,cash
+409279,Bob,09450405865,,,2023-12-04,Groceries,,cash
+868738,Alice,09456732180,,,,Toys,10000.0,cash
+378915,Frank,09456576982,,Miami,2023-12-21,Toys,,paypal
+177179,Charlie,09981835507,,Los Angeles,,Toys,,credit card
+149511,David,09982604007,,Houston,2023-02-14,Electronics,,debit card
+847542,David,09351249018,45.0,Seattle,,Clothing,,cash
+707402,Bob,09455906786,,Houston,2023-06-09,Electronics,,
+887949,Frank,09981343032,,Chicago,,Books,,cash
+325460,Alice,09175650471,,Los Angeles,,Clothing,,paypal
+488958,Henry,09459876187,,Los Angeles,2023-08-05,Toys,288.45,paypal
+732659,Charlie,09455542932,,Houston,,Clothing,,cash
+174184,Eva,09980202739,,,2023-12-06,Sports,,paypal
+291713,Eva,09458092754,,Los Angeles,2023-09-26,Toys,,debit card
+731494,David,09981471965,,Houston,2023-07-18,Sports,10000.0,cash
+320779,Grace,09356171334,82.0,Los Angeles,2023-07-30,Home & Kitchen,,credit card
+850570,David,09208699629,,New York,2023-01-12,Sports,,cash
+312743,David,09457630188,,San Francisco,2023-12-21,Electronics,,paypal
+658007,Frank,09985625432,,New York,2023-12-23,Clothing,,cash
+262132,Bob,09353715703,,New York,,Books,,cash
+714746,Charlie,09982465173,,Houston,2023-12-21,Books,,credit card
+913884,Frank,09455797881,,San Francisco,2023-02-14,Books,,debit card
+100315,Charlie,09351335000,,Miami,2023-05-22,Clothing,,paypal
+215587,Bob,09170696372,,Seattle,2023-03-09,Groceries,,cash
+491508,Charlie,09207947426,,,2023-08-14,Groceries,,paypal
+664082,Frank,09457989047,,Los Angeles,2023-06-13,Electronics,,cash
+978507,Alice,09355742966,,San Francisco,2023-10-01,Home & Kitchen,,debit card
+409345,Alice,09171890978,,Los Angeles,2023-01-13,Groceries,,paypal
+389716,Frank,09203552742,,Los Angeles,2023-06-04,Clothing,,paypal
+350232,Alice,09204738145,,Houston,2023-06-19,Groceries,90.15,credit card 
+763424,Alice,09351991369,,Houston,,Home & Kitchen,,paypal
+891993,Alice,09981832484,,San Francisco,2023-10-04,Home & Kitchen,,debit card
+864534,Bob,09205297881,,Chicago,,Groceries,,paypal
+241209,David,09352839399,,Houston,2023-11-04,Sports,,cash
+929764,Frank,09173331856,,Los Angeles,,Electronics,,cash
+102209,Grace,09203748252,,Los Angeles,,Electronics,,debit card
+499563,Bob,09456425049,,Miami,2023-07-12,Clothing,,debit card
+462130,David,09200793839,,New York,2023-04-27,Sports,75.13,cash
+149000,Frank,09981640390,47.0,Miami,2023-06-16,Books,,credit card
+698249,Alice,09177206230,,New York,,Groceries,241.78,credit card
+517893,Alice,09201741871,,San Francisco,2023-10-29,Electronics,,paypal
+587094,Grace,09357114845,,Houston,2023-04-29,Toys,,
+512395,David,09170673135,,Houston,2023-02-21,Toys,,credit card
+642409,Frank,09983202960,,Houston,2023-12-30,Books,,cash
+437708,Eva,09457695293,,New York,,Home & Kitchen,,credit card
+239462,Frank,09357308725,,Chicago,2023-08-31,Sports,,cash
+677926,Charlie,09985489933,,Seattle,2023-12-23,Groceries,363.76,debit card
+103584,Henry,09981986944,,Chicago,2023-03-27,Toys,,debit card
+459839,Frank,09174457426,,,,Toys,,credit card 
+151320,Eva,09201921665,,San Francisco,2023-03-27,Groceries,,credit card 
+980074,Eva,09455517510,,Los Angeles,2023-10-28,Home & Kitchen,,cash
+169412,David,09203235068,,Seattle,,Electronics,,cash
+734816,Frank,09202408784,,Seattle,2023-03-10,Electronics,,cash
+805236,Henry,09200196597,,New York,2023-03-06,Groceries,370.02,paypal
+685206,Frank,09984128733,,,2023-09-02,Toys,10000.0,paypal
+259518,David,09457996508,,Chicago,2023-11-27,Sports,,debit card
+690739,Grace,09179574327,,Los Angeles,2023-03-31,Home & Kitchen,,debit card
+947641,Henry,09201573576,,Houston,2023-11-28,Clothing,,credit card
+744052,Eva,09459800114,85.0,Chicago,2023-09-12,Home & Kitchen,,
+867996,David,09205637498,29.0,Houston,2023-10-08,Clothing,,credit card
+709203,Charlie,09452023390,,Seattle,2023-05-12,Home & Kitchen,,credit card
+790931,Alice,09176527834,,San Francisco,2023-09-06,Toys,138.0,debit card
+497389,Henry,09174881960,,New York,,Books,170.98,debit card
+758048,David,09359234303,,Houston,2023-05-29,Toys,,debit card
+217445,Grace,09985626551,,Seattle,2023-12-28,Books,10000.0,credit card
+488958,Grace,09986849131,44.0,Miami,2023-02-04,Groceries,,credit card 
+211477,Charlie,09987197219,,Los Angeles,2023-03-29,Clothing,10000.0,
+851686,Henry,09451023035,76.0,Los Angeles,2023-04-07,Clothing,436.28,cash
+983686,Charlie,09456302585,,Houston,2023-05-03,Books,85.31,
+299936,Grace,09171246727,,Chicago,2023-05-21,Sports,,paypal
+133687,Alice,09357938733,,Seattle,2023-01-20,Sports,,cash
+673837,Frank,09357947714,,Seattle,2023-01-13,Books,122.82,paypal
+485545,Henry,09453266349,,Los Angeles,2023-11-23,Electronics,,paypal
+223487,Eva,09201857156,,Chicago,2023-12-13,Electronics,,cash
+772110,Alice,09982291183,,Houston,2023-03-07,Home & Kitchen,,cash
+847743,Charlie,09983474662,,Chicago,2023-09-03,Electronics,,credit card
+702903,Alice,09352866166,,,2023-06-08,Home & Kitchen,,paypal
+754413,Charlie,09982026283,,San Francisco,2023-01-08,Groceries,,credit card 
+764294,Bob,09981960420,,Seattle,2023-05-03,Home & Kitchen,456.04,paypal
+290361,Grace,09352906440,,Los Angeles,2023-05-21,Home & Kitchen,,cash
+996075,Eva,09172482611,,Seattle,2023-12-16,Toys,,credit card
+317248,Eva,09455230531,,New York,2023-04-12,Sports,,credit card 
+722079,Henry,09980629937,,Los Angeles,2023-12-01,Toys,10000.0,debit card
+583482,Frank,09200779446,,New York,2023-11-26,Sports,,cash
+421966,Frank,09177721578,,New York,2023-07-09,Home & Kitchen,384.38,paypal
+686909,Eva,09170306235,,Los Angeles,,Clothing,,debit card
+250618,Bob,09981014647,,Miami,,Groceries,238.86,
+641567,Alice,09984894099,,Chicago,2023-07-06,Clothing,,debit card
+285622,Henry,09206210500,79.0,Chicago,,Home & Kitchen,339.16,debit card
+385762,Eva,09454082103,,Chicago,2023-05-26,Books,,debit card
+172498,Grace,09351390497,,Los Angeles,2023-08-20,Home & Kitchen,,debit card
+452165,Alice,09452609245,,New York,2023-11-08,Electronics,188.77,paypal
+142617,David,09456595807,,Los Angeles,,Clothing,10000.0,credit card
+300409,Bob,09453792670,,Chicago,2023-06-10,Books,251.47,paypal
+902808,Charlie,09981279325,,Chicago,2023-11-19,Electronics,,debit card
+190525,Grace,09453559959,,Houston,,Books,,cash
+107983,Henry,09984563975,,Houston,2023-08-13,Toys,,cash
+803142,Grace,09453613793,,Chicago,2023-03-05,Books,,cash
+484983,Henry,09452191538,,Seattle,2023-06-06,Sports,404.25,credit card
+445900,Grace,09173908821,,Seattle,2023-09-01,Home & Kitchen,10000.0,debit card
+933407,Henry,09355655970,65.0,New York,2023-06-14,Toys,97.2,debit card
+556386,Henry,09451721122,,Seattle,2023-09-06,Sports,,paypal
+563860,Frank,09209493141,,Los Angeles,2023-09-17,Sports,438.37,paypal
+970392,Alice,09989827520,,Miami,2023-09-23,Books,,paypal
+703709,Grace,09980071258,87.0,New York,2023-11-15,Books,,cash
+273316,Henry,09455770212,,Chicago,2023-08-27,Electronics,10000.0,paypal
+291580,Charlie,09176311078,77.0,San Francisco,2023-12-26,Clothing,,debit card
+846632,Frank,09203826842,,Houston,2023-12-11,Sports,,cash
+111984,Grace,09981915634,81.0,San Francisco,2023-02-02,Toys,29.1,debit card
+374373,Frank,09451272804,,San Francisco,2023-10-11,Groceries,,paypal
+919531,David,09357750739,76.0,New York,2023-06-05,Clothing,47.27,paypal
+734882,Eva,09983578292,,Houston,2023-05-17,Sports,399.1,
+547186,Grace,09985143680,,Chicago,2023-05-23,Sports,345.92,cash
+447225,Henry,09173708814,,Seattle,2023-09-18,Home & Kitchen,,debit card
+816777,Henry,09450726512,,San Francisco,,Home & Kitchen,,paypal
+457812,Bob,09452828439,,New York,,Clothing,,credit card 
+578307,Henry,09351731551,,San Francisco,2023-05-29,Home & Kitchen,,debit card
+753774,Henry,09357061707,,San Francisco,2023-07-14,Home & Kitchen,,credit card
+822882,David,09174896966,,Chicago,2023-02-27,Electronics,10000.0,credit card
+841108,Bob,09173581180,,Miami,,Groceries,,cash
+700833,Henry,09453054914,,New York,,Groceries,357.19,cash
+283819,David,09173312521,,,2023-02-21,Groceries,,paypal
+349542,Charlie,09980384280,,New York,2023-02-27,Electronics,,
+650553,Eva,09983688073,,Houston,2023-09-17,Home & Kitchen,430.73,paypal
+335046,Eva,09353363956,,Chicago,2023-08-04,Electronics,94.9,credit card
+941019,Grace,09357109971,,Los Angeles,2023-11-02,Clothing,,paypal
+935945,Henry,09451308121,,Miami,2023-05-15,Groceries,,debit card
+318546,Alice,09172643134,,Houston,2023-03-24,Books,,debit card
+583060,Grace,09456863083,,Houston,,Home & Kitchen,,debit card
+870313,Frank,09206426863,76.0,San Francisco,2023-08-20,Home & Kitchen,,debit card
+651296,David,09454104111,,Chicago,2023-05-23,Home & Kitchen,,debit card
+604923,Eva,09203740840,,Seattle,2023-03-18,Clothing,,debit card
+950029,Henry,09204599628,,Seattle,2023-06-11,Books,,cash
+979017,Charlie,09205602336,45.0,New York,2023-01-28,Sports,250.33,paypal
+990112,David,09200570938,60.0,,2023-01-31,Home & Kitchen,,cash
+869891,Eva,09355025218,,San Francisco,2023-01-07,Books,,
+963634,Grace,09981388992,82.0,Miami,2023-11-27,Clothing,,debit card
+348350,Charlie,09452813155,58.0,San Francisco,2023-05-17,Groceries,,cash
+809819,Alice,09988388218,,Miami,,Books,,
+976885,Frank,09201841125,,Houston,2023-08-12,Books,,cash
+205378,Bob,09983280417,,Seattle,2023-05-02,Books,,debit card
+229497,Eva,09453493177,,San Francisco,2023-05-07,Toys,,debit card
+490929,Bob,09352115204,,Seattle,2023-02-18,Clothing,36.05,credit card 
+738503,Eva,09984938618,,Miami,2023-11-13,Home & Kitchen,126.6,paypal
+317478,David,09459818773,,Los Angeles,2023-01-17,Clothing,,
+947574,Charlie,09356841792,,Miami,2023-04-18,Electronics,,cash
+368683,Henry,09988989668,,,,Books,,paypal
+788625,David,09355100759,,Los Angeles,2023-11-29,Electronics,,debit card
+571764,Alice,09981448573,,,2023-03-11,Sports,,credit card 
+593575,David,09984309751,,Seattle,2023-12-24,Books,398.21,credit card 
+466262,David,09984166971,,Seattle,,Electronics,75.75,credit card
+920761,Charlie,09989242620,,Seattle,,Groceries,,paypal
+361467,Henry,09455210004,80.0,,,Clothing,,paypal
+546057,Eva,09357182421,,Seattle,2023-02-01,Toys,,cash
+263456,Grace,09458869855,,Chicago,2023-05-12,Clothing,10000.0,debit card
+424545,David,09203545708,,Los Angeles,2023-01-13,Books,,debit card
+420517,Henry,09177945847,41.0,Miami,2023-10-31,Sports,,credit card
+416221,Charlie,09178463428,,Seattle,,Toys,,debit card
+609608,David,09355539470,,Miami,2023-12-21,Toys,,paypal
+872100,Grace,09988552081,,New York,2023-01-21,Books,,credit card
+717149,Bob,09177330137,,New York,2023-01-18,Books,10000.0,debit card
+622153,David,09981656688,,Los Angeles,,Home & Kitchen,,credit card 
+250191,Henry,09982054716,,Houston,2023-02-03,Books,10000.0,debit card
+911765,Alice,09179037696,,New York,2023-09-27,Groceries,10000.0,credit card 
+640427,Henry,09209371785,,Los Angeles,2023-05-04,Groceries,,cash
+233241,Frank,09178468305,83.0,Los Angeles,2023-08-16,Electronics,229.3,credit card
+478358,Bob,09173352366,,Chicago,2023-08-21,Clothing,,
+722765,Henry,09985075925,,Houston,,Groceries,77.62,credit card
+909232,David,09987748227,,Seattle,,Toys,10000.0,credit card
+702945,David,09173905818,,Houston,2023-03-25,Toys,,credit card
+839752,Henry,09173911927,77.0,Los Angeles,,Groceries,61.81,cash
+470082,Frank,09359509808,,Chicago,2023-10-15,Books,,
+429840,Henry,09982731146,,Chicago,2023-05-15,Clothing,10000.0,
+206331,Grace,09456222188,,Houston,2023-12-10,Books,,credit card 
+788689,Alice,09456360928,,Seattle,,Clothing,10000.0,debit card
+229053,Eva,09356441695,27.0,San Francisco,2023-12-13,Sports,104.1,
+977922,Eva,09980714459,42.0,San Francisco,2023-05-31,Toys,,debit card
+705639,Grace,09358703224,,Los Angeles,2023-03-01,Sports,,paypal
+915008,Henry,09359742686,20.0,Miami,2023-12-14,Toys,,cash
+741447,Charlie,09980062046,,Los Angeles,2023-08-08,Books,,cash
+432688,David,09175842588,73.0,San Francisco,2023-04-06,Books,,cash
+786061,David,09357546749,,Chicago,2023-12-07,Clothing,,paypal
+562530,Bob,09359435624,,Seattle,2023-05-30,Sports,10000.0,cash
+313765,Grace,09982889207,,Chicago,2023-05-13,Sports,,debit card
+780995,Grace,09178378168,,Seattle,2023-05-21,Groceries,10000.0,debit card
+705330,Bob,09986540657,,Miami,2023-03-27,Sports,,credit card
+137416,Eva,09354852568,,Chicago,2023-05-18,Books,,credit card
+179218,Frank,09177854633,,Chicago,2023-09-24,Groceries,211.41,credit card 
+473863,Alice,09988136869,,Los Angeles,2023-08-31,Books,161.24,credit card
+495345,Frank,09351452665,77.0,Miami,2023-06-13,Groceries,,paypal
+788354,Eva,09458739628,,San Francisco,2023-05-29,Clothing,,paypal
+326447,Alice,09981254316,,Houston,,Toys,,cash
+642759,Alice,09981940700,,Miami,2023-05-12,Clothing,,credit card 
+464451,Eva,09983527127,,Houston,2023-10-17,Electronics,,cash
+366596,Frank,09179720793,,Houston,2023-07-17,Toys,,debit card
+527093,Alice,09983553230,,Houston,2023-01-22,Toys,88.36,credit card 
+780972,Bob,09452655691,,Seattle,,Toys,10000.0,paypal
+280085,Henry,09175036519,,Seattle,2023-10-09,Clothing,10000.0,debit card
+893142,Alice,09456799356,,Chicago,2023-09-03,Toys,,debit card
+319286,Frank,09988383267,,Chicago,,Books,45.63,cash
+113017,Grace,09452839367,,Chicago,2023-11-05,Clothing,161.1,debit card
+746684,Frank,09984621290,,Seattle,2023-07-12,Clothing,,paypal
+243475,David,09358984564,,,2023-05-14,Clothing,,
+905681,Frank,09174827342,,New York,2023-11-02,Groceries,10000.0,cash
+938042,Charlie,09983581969,,Seattle,2023-12-10,Clothing,,cash
+376515,Grace,09200683295,87.0,Houston,2023-08-26,Home & Kitchen,,credit card
+832198,Alice,09173252264,,New York,2023-07-24,Home & Kitchen,,paypal
+409087,Eva,09177623468,,New York,2023-06-30,Groceries,,paypal
+860140,Frank,09357910272,,New York,2023-12-14,Groceries,,cash
+112666,Grace,09352960827,,Miami,2023-11-23,Books,,credit card
+217124,Grace,09204232014,,Chicago,2023-07-31,Sports,,paypal
+666257,David,09177871159,,New York,2023-06-08,Electronics,,cash
+444168,Alice,09359967122,,San Francisco,2023-10-06,Toys,,debit card
+397123,Frank,09454545875,,Los Angeles,2023-03-11,Electronics,,paypal
+686127,Charlie,09209015583,29.0,Los Angeles,2023-10-06,Books,,credit card 
+768841,Eva,09203530513,23.0,Houston,2023-09-24,Clothing,,cash
+572938,Frank,09209941005,68.0,San Francisco,2024-01-01,Groceries,101.48,debit card
+601641,Alice,09178749814,66.0,New York,,Clothing,,credit card
+958321,Eva,09354901861,,New York,,Clothing,185.67,cash
+197454,Grace,09173125327,,Seattle,2023-12-10,Books,,paypal
+347649,Eva,09351965826,,New York,2023-05-17,Home & Kitchen,405.04,debit card
+185784,Charlie,09173901525,,Seattle,,Groceries,10000.0,cash
+691372,Henry,09984294267,73.0,Miami,2023-11-13,Toys,10000.0,cash
+578844,Grace,09171558202,54.0,Chicago,2023-08-25,Groceries,,cash
+419474,Henry,09987299532,,,2023-12-20,Electronics,10000.0,debit card
+370527,David,09455330809,,New York,,Clothing,,paypal
+244919,Frank,09204828287,,Miami,2023-09-25,Electronics,,debit card
+242475,Grace,09988212861,,Houston,2023-07-15,Electronics,,debit card
+925684,Frank,09178726726,66.0,Los Angeles,2023-12-04,Electronics,,debit card
+803268,Alice,09204701684,,Miami,2023-03-24,Groceries,10000.0,debit card
+205596,Eva,09980699506,,San Francisco,2023-09-17,Toys,,credit card
+683090,Henry,09981656524,,Los Angeles,,Clothing,,paypal
+385395,Charlie,09171585038,,New York,2023-06-07,Electronics,,debit card
+107794,Bob,09170611017,,Los Angeles,2023-02-11,Toys,,credit card 
+719807,Henry,09171773292,,Seattle,2023-11-08,Home & Kitchen,10000.0,debit card
+318419,Eva,09208311502,,Los Angeles,2023-06-29,Books,,cash
+925241,Frank,09456285332,,Chicago,2023-02-27,Electronics,,credit card 
+489436,Eva,09209070035,,San Francisco,,Books,348.78,cash
+902858,Alice,09358235849,78.0,San Francisco,2023-04-13,Groceries,10000.0,paypal
+580740,Charlie,09351696142,,San Francisco,2023-09-05,Home & Kitchen,,cash
+700321,Frank,09174214822,,San Francisco,2023-06-27,Clothing,10000.0,credit card
+263156,Charlie,09450000825,,Chicago,,Sports,476.96,debit card
+776544,Henry,09204531057,,Chicago,2023-09-29,Clothing,10000.0,cash
+743931,Grace,09203679964,,Seattle,2023-04-13,Clothing,,debit card
+318094,Grace,09351014695,,Houston,2023-05-28,Electronics,,debit card
+271806,Eva,09985233559,,Houston,,Clothing,,debit card
+536862,Alice,09981526269,,Los Angeles,2023-06-28,Home & Kitchen,,paypal
+602219,Grace,09454804566,,Seattle,2023-01-21,Toys,170.31,cash
+986437,Frank,09459265691,,Miami,2023-06-14,Sports,,paypal
+162748,Charlie,09172583405,,Miami,2023-11-01,Sports,,debit card
+159959,Frank,09981179488,,San Francisco,2023-05-31,Toys,10000.0,paypal
+551267,Eva,09355159024,,Seattle,2023-04-03,Electronics,,cash
+311699,David,09452036586,47.0,Miami,,Toys,10000.0,cash
+723707,David,09176000799,,,,Clothing,,credit card
+169027,Charlie,09209867968,,New York,,Groceries,378.31,credit card 
+212124,Frank,09208226728,49.0,Chicago,2023-10-20,Toys,,cash
+706606,Henry,09355915039,,Seattle,2023-10-12,Clothing,10000.0,paypal
+295401,Eva,09174187528,,Miami,2023-03-10,Groceries,252.93,debit card
+752852,Bob,09203811464,,Houston,2023-09-09,Electronics,,cash
+331245,Bob,09981625657,,Los Angeles,,Electronics,138.31,debit card
+375062,Frank,09172571027,,Houston,,Groceries,142.89,paypal
+901033,Grace,09455403835,,Seattle,2023-09-08,Groceries,,cash
+208983,Charlie,09205456983,34.0,New York,2023-07-16,Groceries,,debit card
+161074,David,09359077853,30.0,San Francisco,2023-02-24,Electronics,10000.0,debit card
+353267,Charlie,09175055063,,San Francisco,2023-05-23,Toys,,
+982800,Grace,09980040209,39.0,New York,2023-12-29,Sports,,cash
+635233,Alice,09350483858,,Houston,2023-05-28,Sports,10000.0,credit card 
+690249,Frank,09209216385,,San Francisco,2023-08-08,Sports,27.33,credit card
+423892,Frank,09455062589,78.0,Miami,2023-02-28,Clothing,,debit card
+511371,Eva,09202782377,,,2023-03-31,Electronics,377.22,credit card
+214680,Alice,09353039196,,Chicago,2023-03-27,Clothing,,
+751582,Bob,09353190947,,New York,2023-02-06,Electronics,,credit card 
+871275,Henry,09172013701,69.0,New York,2023-11-07,Toys,,debit card
+593403,Eva,09357260696,,Chicago,,Sports,,credit card
+322341,Henry,09456852056,,Los Angeles,2023-11-30,Sports,346.72,
+778556,Frank,09208283839,41.0,Miami,,Books,,cash
+807729,Alice,09983418158,,San Francisco,2023-09-09,Clothing,,cash
+320541,David,09457287608,,Chicago,2023-02-08,Clothing,91.18,cash
+143292,Bob,09205990907,,New York,2023-08-18,Home & Kitchen,,credit card 
+599487,Alice,09451807323,,Miami,,Clothing,,credit card
+786602,Eva,09987832839,,Chicago,2023-06-13,Home & Kitchen,105.23,paypal
+813435,Henry,09450003860,,Miami,2023-02-25,Toys,,paypal
+443997,Bob,09179725203,,Los Angeles,2023-03-05,Books,139.51,cash
+756901,Henry,09206622981,,Houston,,Toys,358.39,credit card 
+282718,Frank,09202585708,,Seattle,2023-12-07,Sports,16.31,paypal
+125602,Bob,09988314143,75.0,Seattle,2023-08-02,Books,,debit card
+914798,Alice,09457021760,,Los Angeles,2023-11-27,Sports,,debit card
+703179,Henry,09452874705,,,2023-05-13,Groceries,,credit card 
+365734,Charlie,09453404989,,Chicago,2023-07-03,Groceries,,credit card 
+559490,Bob,09205433525,,Houston,,Home & Kitchen,,credit card 
+521490,Henry,09176421800,,Miami,2023-06-21,Books,10000.0,
+866759,Alice,09982077907,,New York,2023-02-10,Groceries,398.87,cash
+991955,Henry,09356862421,,,2023-01-21,Groceries,,debit card
+814587,Bob,09459301036,,Chicago,2023-10-30,Clothing,,cash
+244758,Charlie,09200524275,45.0,,2023-03-04,Books,10000.0,credit card 
+380907,Charlie,09208183012,,Los Angeles,2023-07-24,Groceries,,credit card 
+903320,Bob,09984055116,,Chicago,,Home & Kitchen,,debit card
+495290,Grace,09202462593,,San Francisco,2023-10-20,Electronics,,debit card
+686722,Bob,09985638203,,Los Angeles,,Groceries,313.72,
+931609,Bob,09205767350,,Seattle,2023-11-18,Groceries,,debit card
+882689,Frank,09455054980,,New York,2024-01-01,Sports,,debit card
+347838,Bob,09457587601,,Los Angeles,,Home & Kitchen,,credit card 
+314780,Eva,09178865226,,Chicago,2023-03-30,Sports,,
+896553,Grace,09203566360,75.0,Houston,2023-02-28,Groceries,10000.0,cash
+187872,Henry,09453730593,,Miami,2023-12-27,Books,,credit card
+294514,Alice,09206875842,,San Francisco,2023-04-22,Electronics,10000.0,cash
+953596,David,09350612964,,Los Angeles,2023-07-24,Groceries,,debit card
+491742,Alice,09450886374,,San Francisco,2023-08-27,Home & Kitchen,,paypal
+830800,Frank,09207924211,,San Francisco,2023-01-29,Electronics,10000.0,cash
+592588,Alice,09208910726,,New York,,Electronics,,
+103720,David,09209765047,,Chicago,2023-11-25,Toys,,paypal
+580376,Alice,09354248643,,New York,2023-08-03,Groceries,,debit card
+500113,Frank,09456717341,,Chicago,,Books,,paypal
+809004,Grace,09357016822,,Miami,2023-05-20,Books,,credit card
+846647,Henry,09986896183,,Miami,2023-04-07,Clothing,10000.0,cash
+855686,Frank,09455202392,,Seattle,2023-08-17,Electronics,,credit card 
+159860,Frank,09179263612,,New York,,Clothing,,paypal
+861132,Eva,09207031310,70.0,Seattle,2023-12-19,Electronics,142.95,debit card
+890700,Grace,09176415697,,Seattle,2023-10-29,Sports,,credit card 
+499417,Charlie,09987781056,26.0,San Francisco,2023-02-27,Books,,cash
+501672,Charlie,09174535518,,Miami,2023-01-23,Home & Kitchen,,debit card
+124332,David,09351832167,,San Francisco,2023-10-05,Sports,,debit card
+328107,Bob,09980957625,,,2023-05-01,Home & Kitchen,,debit card
+149398,Alice,09178009328,,Houston,,Sports,,paypal
+830622,Frank,09204579647,,Miami,2023-02-28,Books,10000.0,credit card
+807080,Bob,09175028290,,Miami,2023-11-06,Sports,,cash
+874355,Alice,09356829902,,Houston,2023-09-23,Electronics,10000.0,debit card
+774785,Frank,09984454621,,Los Angeles,2023-01-27,Electronics,,credit card 
+997729,Bob,09173084161,,San Francisco,2023-04-22,Home & Kitchen,,cash
+870694,Charlie,09982036094,,San Francisco,2023-10-26,Sports,,cash
+680512,Grace,09989721425,,New York,,Electronics,,credit card 
+404064,Alice,09176548518,,Los Angeles,2023-07-01,Toys,,paypal
+419112,Frank,09454701361,,Houston,2023-06-13,Clothing,43.06,credit card 
+141096,Alice,09450998983,,Chicago,2023-11-15,Books,10000.0,cash
+789172,Grace,09208276407,,Miami,2023-01-08,Home & Kitchen,,credit card 
+238937,Grace,09173020702,,New York,2023-10-22,Toys,,paypal
+837037,Eva,09355966807,,Houston,2023-02-24,Toys,47.57,
+754154,Alice,09354090516,,Los Angeles,2023-02-07,Clothing,10000.0,paypal
+646604,Bob,09356707797,,Chicago,,Groceries,,paypal
+423654,Alice,09179474272,,Miami,2023-08-15,Toys,,credit card 
+318032,Henry,09983001800,,Los Angeles,,Groceries,,paypal
+769382,Charlie,09355101834,,New York,2023-01-24,Sports,,cash
+796962,Grace,09178185300,,Los Angeles,2023-07-12,Sports,,cash
+607988,Charlie,09980675664,,Houston,2023-10-09,Home & Kitchen,,
+598563,Frank,09173522806,,Chicago,2023-04-05,Electronics,,debit card
+922284,David,09453130332,,Miami,,Groceries,,paypal
+135325,Frank,09455568977,,Seattle,2023-01-16,Home & Kitchen,,cash
+487430,Charlie,09174513358,,Miami,2023-10-06,Sports,,paypal
+464599,Alice,09204208367,,Los Angeles,,Clothing,,debit card
+979856,Frank,09359316473,,Miami,2023-10-09,Books,,cash
+456429,Bob,09450275487,,Miami,2023-07-11,Clothing,,credit card 
+999502,David,09456047615,,Chicago,2023-02-01,Electronics,,
+474838,David,09985908402,,Seattle,2023-09-03,Groceries,10000.0,credit card
+447752,Alice,09983826886,47.0,Miami,,Clothing,,paypal
+797927,Eva,09350325994,,Los Angeles,2023-07-10,Electronics,42.35,debit card
+461920,Alice,09209675148,,Miami,2023-02-23,Sports,,paypal
+647422,Bob,09173710453,,New York,2023-01-23,Books,,cash
+349247,Alice,09457978740,,San Francisco,2023-11-09,Home & Kitchen,,credit card
+813042,Bob,09179385278,,New York,2023-02-25,Home & Kitchen,10000.0,cash
+251092,Bob,09173915180,,Miami,2023-08-24,Sports,,cash
+318777,Charlie,09455336820,,Houston,2023-05-13,Toys,121.76,cash
+868355,Charlie,09453393010,29.0,Seattle,,Toys,,cash
+129679,Charlie,09177502446,44.0,Chicago,2023-12-03,Electronics,,paypal
+659283,Alice,09982889821,,Miami,2023-02-07,Groceries,,cash
+656569,David,09980713517,,Los Angeles,,Groceries,262.76,credit card 
+559594,Henry,09988080358,,Houston,2023-08-03,Clothing,10000.0,
+820783,Charlie,09459507116,,Houston,,Sports,,debit card
+721418,David,09986047460,53.0,Los Angeles,,Electronics,,cash
+496951,Grace,09458622867,,,,Home & Kitchen,10000.0,credit card
+389101,Alice,09454100290,,,,Toys,10000.0,credit card
+371688,David,09178735897,,Seattle,2023-01-16,Toys,,debit card
+969005,David,09177639522,,,2023-08-31,Home & Kitchen,,paypal
+509871,Eva,09177092817,41.0,San Francisco,2023-12-30,Sports,,paypal
+512167,Eva,09175462889,,New York,,Books,,paypal
+255242,David,09356853457,71.0,San Francisco,2023-11-15,Groceries,10000.0,cash
+805089,Henry,09177118901,,Miami,2023-10-08,Books,,credit card 
+984378,Charlie,09981594473,,New York,,Sports,319.14,
+480142,Henry,09174307220,,Los Angeles,2023-02-20,Toys,,paypal
+495256,Bob,09351397200,,Seattle,,Sports,,credit card 
+598929,David,09354721083,,Miami,2023-01-13,Electronics,,credit card 
+773453,Henry,09986054443,78.0,,2023-12-31,Home & Kitchen,,debit card
+200835,Grace,09351270675,,San Francisco,2023-07-15,Home & Kitchen,,paypal
+128313,Frank,09357685209,,,2023-06-20,Sports,,credit card
+674102,Henry,09983478044,44.0,Houston,2023-06-11,Clothing,,cash
+286026,Henry,09353592181,,San Francisco,2023-02-13,Home & Kitchen,36.48,debit card
+407343,Henry,09987847288,,San Francisco,,Sports,,credit card 
+159955,Henry,09355289221,,New York,2023-11-30,Toys,488.29,credit card
+546311,Henry,09175152177,,Houston,2023-02-07,Home & Kitchen,10000.0,cash
+748389,Charlie,09209869480,35.0,Houston,2023-04-23,Books,,credit card 
+231365,Frank,09205260598,52.0,,2023-11-29,Home & Kitchen,,paypal
+888221,Eva,09354797482,,Houston,2023-10-06,Toys,,debit card
+274305,Bob,09350958788,,Seattle,2023-06-02,Groceries,57.49,debit card
+375615,Alice,09455722887,,Houston,,Groceries,10000.0,debit card
+536838,David,09355910538,80.0,Houston,,Toys,10000.0,debit card
+429153,Frank,09354460812,,San Francisco,2023-02-17,Electronics,,paypal
+573994,Eva,09356452841,,Los Angeles,2023-08-20,Electronics,10000.0,debit card
+166571,Charlie,09171694510,,New York,,Home & Kitchen,,cash
+579013,Alice,09170084419,,New York,,Sports,285.28,credit card 
+188920,Bob,09986738512,,Miami,2023-07-13,Groceries,10000.0,
+195788,David,09982131407,,San Francisco,2023-04-04,Clothing,,paypal
+545515,Charlie,09350416789,,San Francisco,2023-07-06,Sports,188.48,
+626465,Alice,09170292874,,Houston,,Groceries,10000.0,credit card
+560095,Frank,09171690867,,San Francisco,2023-10-15,Toys,10000.0,credit card 
+465318,Frank,09456281177,,Miami,2023-03-12,Toys,10.94,cash
+438558,Bob,09455184078,51.0,Los Angeles,2023-05-25,Books,,cash
+181401,Henry,09454458727,,Chicago,2023-11-07,Electronics,137.44,cash
+130966,Charlie,09201505619,,New York,2023-12-28,Books,223.3,cash
+818337,Bob,09350317015,73.0,Seattle,2023-02-06,Sports,,cash
+362516,Frank,09456617519,66.0,San Francisco,2023-10-27,Electronics,,credit card 
+697665,Henry,09980063362,,New York,2023-08-02,Electronics,,
+853788,Henry,09456628442,19.0,,,Toys,,paypal
+451332,Eva,09171002362,,New York,2023-02-02,Sports,,cash
+359169,Henry,09454640756,50.0,Houston,2023-05-23,Sports,,
+491198,Alice,09456917128,,,,Toys,,paypal
+759467,Eva,09355270162,,Los Angeles,2023-10-11,Groceries,,credit card
+850394,Bob,09200500324,,Miami,2023-12-30,Sports,,paypal
+314790,Bob,09204568999,,New York,2023-10-03,Groceries,,cash
+589996,Bob,09983225664,,Los Angeles,2023-12-28,Toys,10000.0,paypal
+143292,Bob,09456764683,,New York,2023-08-18,Home & Kitchen,,credit card 
+585430,Eva,09202496654,,San Francisco,,Toys,,debit card
+947857,David,09988884536,,,2023-05-29,Books,140.73,credit card
+903538,Frank,09984167324,,,2023-01-29,Books,10000.0,cash
+981747,Grace,09173144484,,Los Angeles,2023-01-31,Toys,409.87,credit card 
+497060,David,09980826594,46.0,Houston,2023-06-22,Home & Kitchen,,cash
+832467,Bob,09352624363,,Miami,2023-06-22,Sports,140.16,debit card
+593575,David,09985938368,,Seattle,2023-12-24,Books,398.21,credit card 
+805063,Bob,09456314193,,San Francisco,2023-02-14,Books,186.65,debit card
+816339,Henry,09170353456,,San Francisco,2023-03-22,Home & Kitchen,10000.0,paypal
+632370,Eva,09174674447,,Houston,2023-02-09,Clothing,36.05,cash
+167759,Alice,09202931157,44.0,Miami,2023-07-05,Books,,cash
+814997,Bob,09171646571,,San Francisco,2023-08-13,Electronics,,paypal
+219197,David,09358043878,25.0,Chicago,2023-08-07,Groceries,10000.0,credit card
+437758,Grace,09984349748,,Chicago,2023-01-25,Electronics,107.51,debit card
+703305,Charlie,09205316000,,Houston,2023-10-31,Toys,290.65,cash
+107344,Henry,09206626547,,,2023-06-23,Groceries,295.9,credit card
+103831,Henry,09176439443,,Seattle,2023-06-24,Home & Kitchen,,cash
+217445,Grace,09355161919,,Seattle,2023-12-28,Books,10000.0,credit card
+214680,Alice,09177880886,,Chicago,2023-03-27,Clothing,,
+766194,Bob,09989273886,,San Francisco,2023-04-09,Home & Kitchen,,debit card
+722079,Henry,09176438139,,Los Angeles,2023-12-01,Toys,10000.0,debit card
+195788,David,09980875530,,San Francisco,2023-04-04,Clothing,,paypal
+785508,Eva,09452303915,89.0,Los Angeles,2023-11-08,Groceries,10000.0,credit card
+318032,Henry,09984309041,,Los Angeles,,Groceries,,paypal
+987701,Grace,09459025937,,Los Angeles,2023-08-15,Books,,cash
+599484,Bob,09206129424,29.0,San Francisco,2023-04-11,Groceries,,credit card 
+149613,Frank,09173920567,,Seattle,2023-12-17,Groceries,,credit card 
+934802,Henry,09173424009,,Houston,2023-02-15,Sports,,cash
+969231,David,09359586633,79.0,Chicago,2023-06-10,Electronics,431.68,cash
+209431,Eva,09983477550,,Houston,2023-10-02,Toys,,cash
+892498,Frank,09205318094,,Houston,2023-01-09,Books,10000.0,debit card
+330027,Alice,09209770184,38.0,Los Angeles,2023-11-20,Electronics,10000.0,cash
+325073,Bob,09201956161,,Miami,,Clothing,,debit card
+265461,Alice,09988635762,,Chicago,,Clothing,,credit card
+618213,Bob,09202432094,,Los Angeles,2023-11-16,Clothing,,credit card
+409345,Alice,09354497576,,Los Angeles,2023-01-13,Groceries,,paypal
+527992,Bob,09178285621,,Seattle,2023-11-12,Groceries,,cash
+336196,Charlie,09355487204,,Miami,2023-02-06,Groceries,,paypal
+612451,Frank,09357017591,,San Francisco,,Toys,183.81,cash
+474094,Bob,09173923575,33.0,Houston,2023-07-24,Home & Kitchen,10000.0,paypal
+922284,David,09208794970,,Miami,,Groceries,,paypal
+893419,Charlie,09201006251,,Los Angeles,2023-09-02,Electronics,10000.0,paypal
+803487,Alice,09350313938,,Houston,2023-03-11,Toys,10000.0,
+284013,Charlie,09209920092,,Los Angeles,2023-07-07,Toys,343.18,paypal
+846984,Henry,09986550931,,,2023-11-28,Groceries,262.34,
+373978,Alice,09178644167,,San Francisco,2023-05-17,Clothing,421.6,credit card 
+667975,Frank,09208760472,,Seattle,2023-04-16,Electronics,,paypal
+528235,Eva,09176274763,,,2023-06-15,Sports,313.74,cash
+978507,Alice,09457392883,,San Francisco,2023-10-01,Home & Kitchen,,debit card
+446277,David,09204913546,66.0,Chicago,,Toys,,paypal
+399122,Alice,09358543111,,Seattle,2023-10-27,Toys,,cash
+486603,Charlie,09172775048,,Miami,,Toys,10000.0,cash
+366945,Charlie,09351260115,,Seattle,2023-04-17,Sports,,cash
+705120,Alice,09351054643,,Miami,2023-05-02,Toys,,debit card
+872100,Grace,09981761675,,New York,2023-01-21,Books,,credit card
+723536,Frank,09452816420,37.0,Miami,2023-05-06,Toys,,credit card
+816777,Henry,09980639625,,San Francisco,,Home & Kitchen,,paypal
+856302,Bob,09989890400,,Seattle,2023-11-15,Toys,,paypal
+926813,David,09357096646,,Chicago,2023-06-26,Books,,cash
+501112,Alice,09989812803,49.0,Chicago,2023-08-08,Electronics,293.98,debit card
+927052,Eva,09984372300,51.0,,2023-01-11,Books,,debit card
+698249,Alice,09985976052,,New York,,Groceries,241.78,credit card
+864794,Alice,09207951374,,Seattle,2023-03-01,Toys,,
+181401,Henry,09209530616,,Chicago,2023-11-07,Electronics,137.44,cash
+982800,Grace,09351875637,39.0,New York,2023-12-29,Sports,,cash
+546474,Bob,09173522242,,Los Angeles,2023-06-17,Clothing,,paypal
+849008,Bob,09175957441,,Miami,2023-05-28,Sports,,cash
+751183,Bob,09173420790,,Seattle,,Toys,,debit card
+988241,Eva,09455666740,,Houston,2023-09-17,Electronics,,credit card
+628597,David,09451984896,,Chicago,2023-10-20,Home & Kitchen,,cash
+570642,Alice,09351382257,,Seattle,,Books,10000.0,debit card
+324951,Henry,09205083897,45.0,Miami,,Electronics,321.13,debit card
+340764,Alice,09171333560,,Houston,2023-08-31,Electronics,,debit card
+410917,Eva,09984673880,,Seattle,2023-11-28,Toys,,cash
+694886,Alice,09171936377,,Los Angeles,2023-07-07,Electronics,,credit card
+587094,Grace,09203394787,,Houston,2023-04-29,Toys,,
+283922,Alice,09177400570,,,2023-09-26,Groceries,,paypal
+185853,Eva,09177827389,,Chicago,,Home & Kitchen,,
+489436,Eva,09205361873,,San Francisco,,Books,348.78,cash
+774668,Charlie,09175667275,,Chicago,2023-01-30,Groceries,10000.0,debit card
+719401,Henry,09200945674,,New York,,Sports,10000.0,cash
+194039,Henry,09453116511,,Los Angeles,,Toys,400.72,debit card
+407070,Henry,09200944640,,San Francisco,2023-04-05,Electronics,,cash
+374373,Frank,09174096993,,San Francisco,2023-10-11,Groceries,,paypal
+843172,Frank,09450398220,,Miami,2023-01-17,Groceries,,paypal
+572938,Frank,09355761613,68.0,San Francisco,2024-01-01,Groceries,101.48,debit card
+160522,Henry,09980365464,,New York,2023-07-06,Toys,,debit card
+774696,Frank,09989358542,,New York,2023-07-20,Home & Kitchen,,debit card
+488958,Grace,09350950635,44.0,Miami,2023-02-04,Groceries,,credit card 
+606754,Charlie,09459872942,,Seattle,2023-05-24,Home & Kitchen,,cash
+788625,David,09454064268,,Los Angeles,2023-11-29,Electronics,,debit card
+385912,Grace,09202407758,,Seattle,2023-10-27,Electronics,,paypal
+624447,Alice,09982363039,,Houston,2023-05-18,Books,,
+314780,Eva,09989215068,,Chicago,2023-03-30,Sports,,
+551267,Eva,09207934135,,Seattle,2023-04-03,Electronics,,cash
+765004,Grace,09203608516,,Los Angeles,2023-03-02,Sports,,
+150839,Eva,09209824644,,Chicago,2023-03-12,Toys,21.57,debit card
+689611,Bob,09200210027,,New York,2023-05-23,Home & Kitchen,,cash
+979856,Frank,09987589228,,Miami,2023-10-09,Books,,cash
